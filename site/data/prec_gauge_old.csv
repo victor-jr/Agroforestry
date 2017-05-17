@@ -1,0 +1,8 @@
+Region,Now,Outlook
+Majuro,,
+,,
+,,
+Notes,Above (>1 sigma) = 1, Normal (-1 to 1 sigma) = 0, Below (<-1 sigma) =-1),
+****Bad SD file from NCEP****,,
+http://cfs.ncep.noaa.gov/pub/raid0/cfsv2/climo_cfsr_time/sd/,,
+Use mean threshold (+-1 mm/day) instead of sigma,,

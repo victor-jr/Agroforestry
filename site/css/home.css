@@ -1,0 +1,642 @@
+@-ms-viewport{
+    width: extend-to-zoom;
+    zoom: 1.0;
+}
+
+h1 {
+    font-size: 1.6em;
+    margin: 0.83em 0;
+}
+h2 {
+    font-size: 1.3em;
+    margin: 1em 0;
+}
+h3 {
+    font-size: 1.17em;
+    margin: 1.33em 0;
+}
+h4 {
+    font-size: 0.9em;
+}
+
+body {
+    font-family: 'Open Sans Hawaii', 'Open Sans', 'Segoe UI', 'Lucida Grande', sans-serif;
+    font-size: 1.125em;
+    margin: 0;
+    background: white;
+    color: black;
+
+    text-rendering: optimizeLegibility; /* optional for older browsers */
+    -webkit-font-variant-ligatures: common-ligatures; /* for iOS and Safari 6 */
+    font-variant-ligatures: common-ligatures; /* for up-to-date browsers, including IE10 and Opera 21 */
+}
+img {
+    width: auto;
+    height: auto;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Alegreya', serif;
+    color: #592A1E;
+    line-height: 105%;
+}
+
+.okina {
+    font-family: 'Open Sans Hawaii';
+}
+
+#content_skip {
+    height: 1px;
+    width: 1px;
+    margin: -1px;
+    overflow: hidden;
+    position: absolute;
+}
+
+.header {
+    position: relative;
+    width: 100%;
+    z-index: 1000;
+}
+
+.uhh-header {
+    height: 33px;
+    background: #fbfaf7;
+    border-top: 4px solid #E01F22;
+    border-bottom: 1px solid #233B3D;
+    width: 100%;
+}
+
+.dept-header {
+    background: #006633;
+    height: 150px;
+    border-bottom: 1px solid #233B3D;
+    width: 100%;
+}
+
+.header img {
+    display: block;
+}
+
+.header-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    max-width: 1240px;
+    margin: 0 auto;
+}
+
+.header .uhh-seal {
+    display: block;
+    position: absolute;
+    left: 25px;
+    top: -3px;
+}
+.header .uhh-seal img {
+    height: 140px;
+    border: 0;
+}
+
+.header .uhh-name {
+    position: absolute;
+    left: 190px;
+    top: 6px;
+}
+.header .uhh-name img {
+    height: 24px;
+    border: 0;
+}
+
+.header .banner {
+    position: absolute;
+    /*left: 190px;
+    top: 14px;*/
+    left: 25px;
+    top: 0px;
+    color: white;
+    font-family: 'Alegreya', serif;
+    font-size: 40px;
+    line-height: 105%;
+}
+.header .banner img {
+    height: 150px;
+    border: 0;
+}
+
+.header a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.menu {
+    position: absolute;
+    bottom: 5px;
+    left: 80px;
+		width: 1020px;
+		z-index: 9999;
+}
+.menu > .inner {
+}
+.menu ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.menu li {
+    display: inline-block;
+    margin-right: 30px;
+}
+.menu a {
+    display: inline-block;
+    color: #E5D45E;
+    -webkit-transition: color 0.2s linear;
+    -moz-transition: color 0.2s linear;
+    -o-transition: color 0.2s linear;
+    transition: color 0.2s linear;
+}
+.menu a:hover, .menu li.active a {
+    color: white;
+}
+
+.flag-menu {
+    position: absolute;
+    bottom: 2px;
+		left: 1020px;
+		text-align: center;
+		font-size: 12px;
+		z-index: 9999;
+}
+
+.flag-menu > .flag-inner {
+}
+
+.flag-menu a {
+    display: inline-block;
+    color: #E5D45E;
+    -webkit-transition: color 0.2s linear;
+    -moz-transition: color 0.2s linear;
+    -o-transition: color 0.2s linear;
+    transition: color 0.2s linear;
+}
+.flag-menu a:hover {
+    color: white;
+}
+
+.header a:active {
+    position: relative;
+    top: 1px;
+}
+.go-to-menu {
+    display: none;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: 66px;
+}
+.go-to-menu:hover, body.show-menu .go-to-menu {
+    background: rgba(255,255,255,0.20);
+}
+.go-to-menu a {
+    line-height: 32px;
+    font-size: 10px;
+    color: #ddd;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+.go-to-menu a:before, .go-to-menu a:after {
+    position: absolute;
+    top: 26px;
+    left: 22px;
+    content: '';
+    display: block;
+    width: 22px;
+    height: 5px;
+    border-top: 4px solid #ddd;
+    border-bottom: 4px solid #ddd;
+}
+.go-to-menu a:after {
+    top: 39px;
+    border-top: 0
+}
+.go-to-menu a:active {
+    position: absolute;
+}
+
+#footer {
+    clear: both;
+    background-color: #ACBEDA;
+    padding-bottom: 5px;
+    font-size: 0.8em;
+    margin-top: 20px;
+}
+#innerfooter {
+    max-width: 900px;
+    margin: 0 auto 0;
+    padding: 1em;
+}
+#footer * {
+    color: #3D3D3D;
+}
+ul.footerlinks {
+    margin: 0;
+    margin-top: .5em;
+    display: block;
+    padding: 0;
+    text-align: center;
+}
+ul.footerlinks li {
+    display: inline-block;
+    padding-right: 10px;
+    font-size: 1.125em;
+}
+ul.footerlinks li:last-child {
+    padding-right: 0;
+}
+#footer a {
+    text-decoration: none;
+    color: #103A3D;
+}
+#footer a:hover {
+    text-decoration: underline;
+}
+
+#content {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 10px;
+    min-height: 500px;
+}
+
+@media screen and (max-width: 1200px) {
+    .menu li {
+        margin-right: 15px;
+    }
+}
+/*@media screen and (max-width: 1120px) {
+    .uhh-header {
+        height: 28px;
+    }
+    .dept-header {
+        height: 70px;
+    }
+    .header .uhh-seal img {
+        height: 105px;
+    }
+    .header .uhh-name {
+        left: 150px;
+        top: 5px;
+    }
+    .header .uhh-name img {
+        height: 20px;
+    }
+    .header .banner {
+        left: 150px;
+        top: 9px;
+    }
+    .header .banner img {
+        height: 52px;
+    }
+    .menu {
+        left: 540px;
+        bottom: 10px;
+    }
+    .menu > .inner {
+        margin-right: 2%;
+    }
+}*/
+@media screen and (max-width: 960px) {
+    .uhh-header {
+        height: 28px;
+    }
+    .dept-header {
+        height: 70px;
+    }
+    .header .uhh-seal img {
+        height: 105px;
+    }
+    .header .uhh-name {
+        left: 150px;
+        top: 5px;
+    }
+    .header .uhh-name img {
+        height: 20px;
+    }
+    .header .banner {
+        /*left: 150px;*/
+        top: 9px;
+    }
+    .header .banner img {
+        height: 52px;
+    }
+
+
+    .go-to-menu {
+        display: block;
+    }
+    .menu {
+        display: none;
+        top: 70px;
+        bottom: auto;
+        left: auto;
+        right: 0;
+        background: #1852A8;
+        background: rgba(1,65,161,0.90);
+    }
+    body.show-menu .menu {
+        display: block;
+    }
+    .menu > .inner {
+        margin: 0;
+        text-align: left;
+    }
+    .menu li {
+        display: block;
+        margin-right: 0;
+        border-top: 1px solid #888;
+    }
+    .menu a {
+        display: block;
+        padding: 7px 20px;
+        min-width: 150px;
+    }
+}
+@media screen and (max-width: 630px) {
+    .dept-header {
+        height: 66px;
+    }
+    .header .uhh-seal {
+        left: 8px;
+        top: 40px;
+    }
+    .header .uhh-seal img {
+        height: 47px;
+    }
+    .header .uhh-name {
+        left: 10px;
+    }
+    .header .banner {
+        /*left: 63px;*/
+        top: 10px;
+    }
+    .header .banner img {
+        height: 46px;
+    }
+    .menu {
+        top: 66px;
+    }
+}
+@media screen and (max-width: 490px) {
+    .dept-header {
+        height: 56px;
+    }
+    .header .uhh-seal {
+        left: 6px;
+    }
+    .header .uhh-seal img {
+        height: 36px;
+    }
+    .header .banner {
+        /*left: 49px;*/
+        top: 10px;
+        right: 47px;
+    }
+    .header .banner img {
+        height: 38px;
+        max-width: 245px;
+        width: 100%;
+    }
+    .go-to-menu {
+        width: 45px;
+        top: -5px;
+    }
+    .go-to-menu a:before, .go-to-menu a:after {
+        left: 13px;
+    }
+    .menu {
+        top: 56px;
+    }
+}
+
+.left {
+    margin: 5px 20px 5px 0;
+    float: left;
+}
+.right {
+    margin: 5px 5px 5px 20px;
+    float: right;
+}
+.half {
+    max-width: 50%;
+    min-width: 220px;
+}
+.third {
+    max-width: 33%;
+    min-width: 180px;
+}
+.fourth {
+    max-width: 25%;
+    min-width: 120px;
+}
+.whole {
+    width: 100%;
+}
+
+img.arrow {
+    display: block;
+}
+
+figure {
+    margin: 0;
+}
+figcaption.ack {
+    text-align: right;
+    font-size: .6em;
+}
+figcaption.ack a {
+    text-decoration: none;
+}
+
+@media screen and (max-width: 420px) {
+    .half {
+        max-width: 100%;
+        min-width: 100%;
+    }
+}
+
+div.news h2 {
+    margin-top: 1.5em;
+    margin-bottom: .4em;
+    color: #1F581E;
+}
+div.news h3 {
+    font-size: 1.11em;
+    margin-top: .5em;
+    font-weight: normal;
+    font-style: italic;
+}
+
+table.columns {
+    border-collapse: collapse;
+}
+td.column {
+    vertical-align: top;
+    width: 50%;
+    padding-left: 1em;
+    padding-right: 1em;
+    border-right: 1px gray dotted;
+}
+td.column:first-child {
+    padding-left: 0;
+}
+td.column:last-child {
+    padding-right: 0;
+    border-right: 0;
+}
+@media screen and (min-width: 922px) {
+    td.column > *:first-child {
+        margin-top: 0;
+    }
+}
+@media screen and (max-width: 921px) {
+    table.columns, table.columns > tbody, table.columns > tbody > tr {
+        display: inline;
+    }
+    td.column {
+        display: inline;
+        width: auto;
+        border: 0;
+        padding: 0;
+    }
+}
+
+
+table.enso {
+
+}
+table.enso h2 {
+    padding: 0;
+    margin: 0;
+}
+table.enso td {
+    border-right: 1px gray dotted;
+    vertical-align: top;
+    padding: .5em;
+}
+table.enso td:last-child {
+    border-right: none;
+}
+
+calendar-table {
+    display: block;
+    font-size: .8em;
+    margin-top: 1em;
+}
+
+table.calendartable {
+    /*width: 100%;*/
+    border-spacing: 0 4px;
+}
+table.calendartable td {
+    text-align: center;
+}
+table.calendartable td.label {
+    text-align: left;
+    padding-right: .5em;
+    padding-left: .5em;
+    text-indent: -.5em;
+}
+table.calendartable td.label small {
+    display: inline-block;
+    text-indent: 0;
+}
+
+th.rotate {
+    /* Something you can count on */
+    height: 80px;
+    white-space: nowrap;
+}
+
+th.rotate > div {
+    transform:
+        /* Magic Numbers */
+        translate(15px, 21px)
+        /* 45 is really 360 - 45 */
+        rotate(315deg);
+    width: 30px;
+}
+
+.gauges {
+    text-align: center;
+}
+.gauges .variable {
+    font-weight: bold;
+    color: #592A1E;
+}
+.gauges .when-updated {
+    font-size: smaller;
+}
+.gauges .gauge {
+    display: inline-block;
+    width: 11em;
+    height: 7.5em;
+}
+
+button {
+    border: 1px solid #A1A1A1;
+    background: white;
+    color: #0060A6;
+}
+button:hover {
+    background: #D2EBF9;
+}
+button:active {
+    background: #A9D1E8;
+    color: #1D83CD;
+}
+
+.optiongroup {
+    margin: 1px;
+    border: 1px solid #A1A1A1;
+    background: white;
+}
+.optiongroup button {
+    font-size: 1.125em;
+    border: 1px solid white;
+    padding: 0px 3px;
+    margin: 1px;
+}
+.optiongroup button.selected {
+    border: 1px solid #0060A6;
+    cursor: auto;
+    color: black !important;
+    background: #A1C2EF !important;
+}
+
+img.loading {
+    display: block;
+    margin: auto;
+    z-index: 100;
+}
+
+.img-with-text {
+    text-align: center;
+    width: 60;
+}
+
+.img-with-text img {
+    display: block;
+    margin: 0 auto;
+}
+
+.recommendationImg {
+    max-height: 300px;
+}
+
+.recommendationImgTable td {
+    width: 250px;
+}

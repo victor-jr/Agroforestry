@@ -1,0 +1,7 @@
+Region,Now,Outlook
+Majuro,1,1
+Kwajalein,0,1
+Jaluit,1,1
+Utirik,-1,0
+,,
+Notes,Above (>1 sigma) = 1, Normal (-1 to 1 sigma) = 0, Below (<-1 sigma) =-1),

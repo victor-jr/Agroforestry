@@ -1,0 +1,256 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+
+	<head>
+		<title>Climate Prediction Center: ENSO Diagnostic Discussion</title>
+		<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+		<meta content="NCEP Web Team" name="GENERATOR">
+		<link href="/nwscwi/main.css" type="text/css" rel="STYLESHEET">
+	</head>
+
+	<body leftmargin="0" background="/nwscwi/background.gif" topmargin="0" marginheight="0" marginwidth="0">
+		<TABLE cellSpacing="0" cellPadding="0" width="100%" border="0" background="/nwscwi/topbanner.jpg" >
+			<TBODY>
+				<TR>
+				<TD align="right" height="19">
+				<A href="#contents"><IMG height="1" alt="Skip Navigation Links" src="/nwscwi/skipgraphic.gif" width="1" border="0"></A>
+				<A href="http://www.nws.noaa.gov/" class="homepagelinks"><SPAN class="nwslink">www.nws.noaa.gov</SPAN></A>&nbsp;</TD>
+				</TR>
+			</TBODY>
+		</TABLE>
+		
+		<TABLE cellSpacing="0" cellPadding="0" width="100%" border="0">
+			<TBODY>
+				<TR>
+					<TD rowSpan="2"><A href="http://www.noaa.gov/">
+						<IMG height="78" alt="NOAA logo - Click to go to the NOAA home page" src="/nwscwi/noaaleft.jpg" width="85" border="0"></A>
+					</TD>
+					<TD align="left"><IMG height="20" alt="National Weather Service" src="/nwscwi/nws_title.jpg" width="500" border="0">
+					</TD>
+						<TD rowSpan="2" width="100%" background="/nwscwi/ncep_bkgrnd.jpg">&nbsp;
+					</TD>
+					<TD rowSpan="2" align="right">
+						<A href="http://www.nws.noaa.gov/"><IMG height="78" alt="NWS logo - Click to go to the NWS home page" src="/nwscwi/nwsright.jpg" width="85" border="0"></A>
+					</TD>
+				</TR>
+				<TR>
+					<TD>
+						<IMG height="58" alt="Climate Prediction Center" src="/nwscwi/cpc.jpg" width="500" border="0">
+					</TD>
+				</TR>
+			</TBODY>
+		</TABLE>
+		
+		<TABLE cellSpacing="0" cellPadding="0" width="100%" background="/nwscwi/navbkgrnd.gif" border="0">
+			<TBODY>
+				<TR>
+					<TD align="left" width="135">
+						<IMG height="23" alt="" src="/nwscwi/navbarleft.jpg" width="94" border="0">
+					</TD>
+					<TD class="nav" align="center" width="10%">
+						<A href="/" class="menu" title="to the Climate Prediction Center home page">Home</A>
+					</TD>
+					<TD class="nav" align="center" width="10%">
+						<A href="/products/site_index.shtml" class="menu" title="to Climate Prediction Center site map">Site Map</A>
+					</TD>
+					<TD class="nav" align="right" width="10%">
+						<A href="http://www.nws.noaa.gov/pa/" class="menu" title="to National Weather Service news page">News</A>
+					</TD>
+					<TD class="nav" align="right" width="19%">
+						<A href="http://www.weather.gov/organization.php" class="menu">Organization</A>
+					</TD>
+					<td class="searchinput" align="right" width="30%">
+						<form method="get" action="http://firstgovsearch.gov/search" style="margin-bottom:0; margin-top:0;">
+						<label for="Search"><span class="yellow">Search</span>&nbsp;&nbsp;</label>
+						<input type="hidden" name="affiliate" value="nws.noaa.gov" />
+						<input type="hidden" name="v:project" value="firstgov" />
+						<input name="query" type="text" value="" size="20" maxlength="256" id="Search" />
+						<input type="submit" value="Go" />
+						</form>
+					</td>
+				<TD align="right"><IMG height="23" alt="" src="/nwscwi/navbarendcap.jpg" width="24" border="0"></TD>
+				</TR>
+			</TBODY>
+		</TABLE>
+		
+		<table cellspacing="0" cellpadding="0" width="670" border="0">
+			<tbody>
+				<tr valign="top">
+					<td width="137"><br>
+						<table cellspacing="0" cellpadding="2" width="137" border="0">
+							<tbody>
+								<tr>
+									<td class="searchinput" align="left">
+										<form method="get" action="http://firstgovsearch.gov/search" style="margin-bottom:0; margin-top:0;">
+										<label for="Search">
+										<span class="yellow">Search&nbsp;the CPC</span></label>
+										<input type="hidden" name="affiliate" value="ncep.noaa.gov" />
+										<input type="hidden" name="v:sources" value="firstgov-affiliates-search" />
+										<input type="hidden" name="v:project" value="firstgov" />
+										<input type="hidden" name="query" value="site:www.cpc.ncep.noaa.gov" />
+										<input name="query" type="text" value="" size="10" maxlength="256" id="Search"/>
+										<input type="submit" value="Go"  />
+										</form>
+									</td>
+								</tr>
+								<tr>
+									<td class="white">
+										<SPAN class="yellow">Expert Assessments</SPAN><BR>
+										&nbsp;&nbsp;&nbsp;<A href="/products/expert_assessment/ENSO_DD_archive.shtml" class="menu">ENSO Diagnostic<br>
+										&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Discussion Archive</A><BR><br>
+										<span class="yellow">About Us</span><br>
+										&nbsp;&nbsp;&nbsp;<a href="/information/who_we_are/mission.shtml" class="menu">Our Mission</a><br>
+										&nbsp;&nbsp;&nbsp;<a href="/information/who_we_are/" class="menu">Who We Are</a><br><br>
+										<span class="yellow">Contact Us</span><br>
+										&nbsp;&nbsp;&nbsp;<a href="/information/personnel/contacts.shtml" class="menu">CPC Information</a><br>
+										&nbsp;&nbsp;&nbsp;<a href="/comment-form.html" class="menu">CPC Web Team</a><br><br>           
+									</td>
+								</tr>
+								<TR><TD>&nbsp;</TD></TR>
+								<TR>
+									<TD class="white" id="menuitem">
+										<a href="http://www.usa.gov/"><img src="/nwscwi/usagov_logo_color_110wb.gif" alt="USA.gov is the U.S. Government's official Web portal to all Federal, state and local government Web resources and services." width="110" height="30" border="0"></a>
+									</TD>
+								</TR>
+							</tbody>
+						</table>
+					</td>
+					<td valign="top" align="center" width="535"><a name="contents"></a>
+						<table border="0" cellPadding="2" cellSpacing="0" align="center" width="535" >
+							<tr>
+								<td>
+									<font face="Verdana,arial" size="1"><a href="/" class="homepagelinks"><strong>HOME</strong></a> > 
+									<a href="/products/expert_assessment/" class="homepagelinks"><strong>Expert Assessments</strong></a> > ENSO Diagnostic Discussion</font>
+								</td>
+							</tr>
+							<tr><td>&nbsp;</td></tr>
+							<tr><td>&nbsp;</td></tr>
+							<tr>
+								<td align="center">
+									<font face="verdana,arial,serif" size="5"><strong>EL NI&Ntilde;O/SOUTHERN OSCILLATION (ENSO)</strong></font> 
+								</td>
+							</tr>
+							<tr>
+								<td align="center">
+									<font face="verdana,arial,serif" size="5"><strong>DIAGNOSTIC DISCUSSION</strong></font>
+								</td>
+							</tr>
+							<tr>
+								<td align="center">
+									<font face="verdana,arial,serif" size="3">issued by</font><br>
+									<font face="verdana,arial,serif" size="3">CLIMATE PREDICTION CENTER/NCEP/NWS<br>and the International Research Institute for Climate and Society</font> 
+								</td>
+							</tr>
+							<tr>
+								<td align="center">
+									<font face="verdana,arial,serif" size="4">14 July 2016</font>
+								</td>
+							</tr>
+							<tr><td>&nbsp;</td></tr>
+							<tr>
+								<td>
+									<!-- ENSO_Alert_System_Status.en.htm goes here -->
+<p align="center">
+<font face="verdana,arial,serif" size="3">
+<strong>ENSO Alert System Status: </font>
+<a href="enso-alert-readme.shtml" class="homepagelinks">
+<font face="verdana,arial,serif" size="2">
+<span style="color:red">La Ni&ntilde;a Watch</span>
+</strong>
+</font>
+</a>
+</p>
+									
+								</td>
+							</tr>
+							<tr><td>&nbsp;</td></tr>
+							<tr> 
+								<td align="justify">
+									<!-- synopsis.en.htm goes here -->
+<p align="justify">
+<font face="verdana,arial" size="2">
+<u>Synopsis:</u>&nbsp;
+<strong>
+  La Ni&ntilde;a is favored to develop during August - October 2016, with about a 55-60&#37; chance of La Ni&ntilde;a during the fall and winter 2016-17.
+</strong>
+</font>
+</p>
+									<!-- text.en.htm goes here -->
+
+<p align="justify">
+<font face="verdana,arial" size="2">
+ ENSO-neutral conditions were observed during the past month, as indicated by near-to-below average surface temperatures (SST) across the eastern equatorial Pacific Ocean <a href="./figure1.gif">(Fig. 1)</a>. While the Ni&ntilde;o-4 region was slightly above average, the other Ni&ntilde;o indices were either slightly below average or near zero during June <a href="./figure2.gif">(Fig. 2)</a>. Below-average subsurface temperatures continued <a href="./figure3.gif">(Fig. 3)</a> and extended to the surface in parts of the central and eastern equatorial Pacific <a href="./figure4.gif">(Fig. 4)</a>. Atmospheric anomalies over the tropical Pacific Ocean also indicated ENSO-neutral conditions. The traditional Southern Oscillation index was slightly positive while the equatorial Southern Oscillation index was near zero. The upper and lower-level winds were both near average across most of the tropical Pacific. Convection was slightly suppressed over portions of the western tropical Pacific and enhanced over part of Indonesia <a href="./figure5.gif">(Fig. 5)</a>. Collectively, these atmospheric and oceanic anomalies reflect ENSO-neutral conditions.
+</font>
+</p>
+<p align="justify">
+<font face="verdana,arial" size="2">
+ Many models favor La Ni&ntilde;a (3-month average Ni&ntilde;o-3.4 index less than or equal to -0.5&degC) by the end of the Northern Hemisphere summer, continuing during fall and lasting into winter <a href="./figure6.gif">(Fig. 6)</a>.  Statistical models predict a later onset time (i.e., mid-fall) than dynamical models, and also predict a relatively weaker event. The forecaster consensus is somewhat of a compromise between the two model types, favoring La Ni&ntilde;a onset during the August-October season, and predicting a weak event (Ni&ntilde;o-3.4 index between -0.5&degC and -1.0&degC), if an event were to form. Overall, ENSO-neutral conditions currently prevail and La Ni&ntilde;a is favored to develop by August - October 2016, with about a 55-60&#37; chance of La Ni&ntilde;a during the fall and winter 2016-17 (click <a href="http://iri.columbia.edu/our-expertise/climate/forecasts/enso/current/?enso_tab=enso-cpc_plume">CPC/IRI consensus forecast</a> for the chance of each outcome for each 3-month period).
+</font>
+</p>
+									
+									<p align="justify"><font face="verdana,arial" size="2">This discussion is a consolidated effort of the National Oceanic and Atmospheric Administration (NOAA), NOAA's National Weather Service, and their funded institutions. Oceanic and atmospheric conditions are updated weekly on the Climate Prediction Center web site (<a href="/products/precip/CWlink/MJO/enso.shtml" title="Weekly ENSO Update page">El Ni&ntilde;o/La Ni&ntilde;a Current Conditions and Expert Discussions</a>). Forecasts are also updated monthly in the <a href="/products/CDB/Forecast/forecast.shtml">Forecast Forum</a> of CPC's Climate Diagnostics Bulletin. Additional perspectives and analysis are also available in an <a href="http://www.climate.gov/news-features/blogs/enso/">ENSO blog</a>.  The next ENSO Diagnostics Discussion is scheduled for 11 August 2016.  To receive an e-mail notification when the monthly ENSO Diagnostic Discussions are released, please send an e-mail message to: <a href="mailto:ncep.list.enso-update@noaa.gov">ncep.list.enso-update@noaa.gov</a>.
+									</font>
+									</p>
+
+								</td>
+							</tr>
+							<tr><td>&nbsp;</td></tr>
+							<tr>
+								<td align="center">
+									<font face="verdana,arial,serif" size="2">
+									Climate Prediction Center<br>
+									National Centers for Environmental Prediction<br>
+									NOAA/National Weather Service<br>
+									College Park, MD 20740
+									</font> 
+								</td>
+							</tr>
+							<tr>
+							<td>
+								<table width="533">
+									<TR>
+										<TD colSpan="3"><HR></TD>
+									</TR>
+									<TR vAlign="top">
+										<TD class="gray">
+											<A href="http://www.noaa.gov/" class="homepagelinks"><SPAN class="gray">NOAA/</SPAN></A>
+											<A href="http://www.nws.noaa.gov/" class="homepagelinks"><SPAN class="gray">National Weather Service</SPAN></A><BR>
+											<A href="http://www.ncep.noaa.gov/" class="homepagelinks"><SPAN class="gray">National Centers for Environmental Prediction</SPAN></a><BR>
+											Climate Prediction Center<BR>
+											5830 University Research Court<BR>
+											College Park, Maryland  20740<BR>
+											Page Author:<A href="/comment-form.html" class="homepagelinks"><SPAN class="gray"> Climate Prediction Center Internet Team</SPAN></A><BR>
+											Page last modified: 10 March 2016
+										</TD>
+										<TD>
+											<A href="http://www.weather.gov/disclaimer.php" class="homepagelinks">
+											<SPAN class="gray">Disclaimer</SPAN></A><br>
+											<A href="http://www.cio.noaa.gov/Policy_Programs/info_quality.html" class="homepagelinks">
+											<SPAN class="gray">Information Quality</SPAN></A><br>
+											<A href="http://www.nws.noaa.gov/credits.php" class="homepagelinks">
+											<SPAN class="gray">Credits</SPAN></A><br>
+											<A href="http://www.nws.noaa.gov/glossary/" class="homepagelinks">
+											<SPAN class="gray">Glossary</SPAN></A><br>
+										</TD>
+										<TD align="right">
+											<A href="http://www.weather.gov/privacy.php" class="homepagelinks">
+											<SPAN class="gray">Privacy Policy</SPAN></A><br>
+											<A href="http://www.rdc.noaa.gov/%7Efoia/" class="homepagelinks">
+											<SPAN class="gray">Freedom of Information Act (FOIA)</SPAN></A><br>
+											<A href="http://www.nws.noaa.gov/admin.php" class="homepagelinks">
+											<SPAN class="gray">About Us</SPAN></A><br>
+											<A href="http://www.nws.noaa.gov/careers.php" class="homepagelinks">
+											<SPAN class="gray">Career Opportunities</SPAN></A><br>
+										</TD>
+									</TR>
+								</table>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</body>
+
+</html>
+

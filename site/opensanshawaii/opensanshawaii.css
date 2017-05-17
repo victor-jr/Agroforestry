@@ -1,0 +1,43 @@
+@font-face {
+    font-family: 'Open Sans Hawaii';
+    src: url('opensanshawaii-regular.eot');
+    src: url('opensanshawaii-regular.eot?#iefix') format('embedded-opentype'),
+         url('opensanshawaii-regular.woff2') format('woff2'),
+         url('opensanshawaii-regular.woff') format('woff'),
+         url('opensanshawaii-regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open Sans Hawaii';
+    src: url('opensanshawaii-italic.eot');
+    src: url('opensanshawaii-italic.eot?#iefix') format('embedded-opentype'),
+         url('opensanshawaii-italic.woff2') format('woff2'),
+         url('opensanshawaii-italic.woff') format('woff'),
+         url('opensanshawaii-italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Open Sans Hawaii';
+    src: url('opensanshawaii-bold.eot');
+    src: url('opensanshawaii-bold.eot?#iefix') format('embedded-opentype'),
+         url('opensanshawaii-bold.woff2') format('woff2'),
+         url('opensanshawaii-bold.woff') format('woff'),
+         url('opensanshawaii-bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open Sans Hawaii';
+    src: url('opensanshawaii-bolditalic.eot');
+    src: url('opensanshawaii-bolditalic.eot?#iefix') format('embedded-opentype'),
+         url('opensanshawaii-bolditalic.woff2') format('woff2'),
+         url('opensanshawaii-bolditalic.woff') format('woff'),
+         url('opensanshawaii-bolditalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}

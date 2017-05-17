@@ -1,0 +1,6 @@
+This css is borrowed from UH Hilo department sites that I worked on. There is likely a lot of 
+unneeded styles. The header styles are meant to adjust the header to look good at different 
+screen sizes. You can find an example of this at http://hilo.hawaii.edu/depts/education/
+
+Michael Best
+
