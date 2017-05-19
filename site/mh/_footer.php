@@ -13,6 +13,7 @@
 <script type="text/javascript" src="./js/knockout.punches.min.js"></script>
 <script type="text/javascript" src="./js/home.js"></script>
 <script type="text/javascript" src="./js/translate_to_english.js"></script>
+<script src="../js/lightbox.js"></script>
 <script type="text/javascript">
 (function() {
     ko.punches.enableAll();

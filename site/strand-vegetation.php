@@ -7,6 +7,7 @@
     <style>@-ms-viewport{width:extend-to-zoom;zoom:1.0;}</style>
     <link href="./opensanshawaii/opensanshawaii.css" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Alegreya:400italic,400,700italic,700" rel="stylesheet" type="text/css">
+    <link href="css/lightbox.css" rel="stylesheet">
     <link href="css/home.css" rel="stylesheet" type="text/css">
 </head>
 <body>
@@ -110,10 +111,10 @@ If you plant coastal trees or shrubs:
 </ul>
 
 <div>
-  <img src="images/Waihee-Landscape.jpg" alt="Waihee-Landscape" style="width:  450px;
-  height: auto;">
-  <img src="images/Waihee-Tournefortia-Scaevola.jpg" alt="Waihee-Tornefortia-Scavola.jpg" style="width:  450px;
-  height: auto;">
+  <a href="images/Waihee-Landscape.jpg" data-lightbox="image-1" data-title="Waihee-Landscape"><img src="images/Waihee-Landscape.jpg" alt="Waihee-Landscape" style="width:  auto;
+  height: 150px;"></a>  
+  <a href="images/Waihee-Tournefortia-Scaevola.jpg" data-lightbox="image-2" data-title="Waihee-Tournefortia-Scaevola"><img src="images/Waihee-Tournefortia-Scaevola.jpg" alt="Waihee-Tornefortia-Scavola.jpg" style="width:  auto;
+  height: 150px;"></a> 
 </div>
 
 </div>
