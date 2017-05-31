@@ -15,9 +15,9 @@
 <div id="content" role="main">
 <h1><a href="http://www.hawaii.edu/cpis/MI/VegTypes/Coastal.html" target="_blank">Marilik; jan̄n̄o</a></h1>
 
-<p>Mar ko rej eddek tōrerein ak ioon wōt ioon kappe rōkūtbuuj mar ko me rej kōm̗m̗an bwe bok eo en eddek l̗o̗k em l̗ap l̗o̗k. Mar kein rōjipan̄ bwidej eo ioon kappe bwe en dāpdep wōt parijet eo em en rupi n̗o ko n̄e rōtōpar āne n̄e ej iōl̗ap-lep, iien ko el̗l̗ap n̗o, em elōn̄ l̗an̄. Mar kein rej bareinwōt jāliktaki wāto ko n̄an aer kōjparok keinikkan ko em ijeko rōbukwekwe jān tab in n̗o em m̗ōrā wal̗ok tok jān kōto eo. Bwe en likio pel̗aak kein ej aikuj lōn̄ wōjke, mar, ujooj em menin eddek ko jet me rōnaaj dāpij bwidej eo em jālitake wāto eo jān kōto em n̗o</p>
+<img style="float: right" class="half"  src="../images/atoll-strand.jpg"/>
 
-<!-- <img class="whole" src="../images/atoll-strand.jpg" /> -->
+<p style="float:left">Mar ko rej eddek tōrerein ak ioon wōt ioon kappe rōkūtbuuj mar ko me rej kōm̗m̗an bwe bok eo en eddek l̗o̗k em l̗ap l̗o̗k. Mar kein rōjipan̄ bwidej eo ioon kappe bwe en dāpdep wōt parijet eo em en rupi n̗o ko n̄e rōtōpar āne n̄e ej iōl̗ap-lep, iien ko el̗l̗ap n̗o, em elōn̄ l̗an̄. Mar kein rej bareinwōt jāliktaki wāto ko n̄an aer kōjparok keinikkan ko em ijeko rōbukwekwe jān tab in n̗o em m̗ōrā wal̗ok tok jān kōto eo. Bwe en likio pel̗aak kein ej aikuj lōn̄ wōjke, mar, ujooj em menin eddek ko jet me rōnaaj dāpij bwidej eo em jālitake wāto eo jān kōto em n̗o</p>
 
 <h2>Ijeko mar ko rej eddek ie: kajjojo menin eddek kab menin mour rāinjuon jān doon rej mour ilo pel̗aak ko rōkkar bwe ren mour ie</h2>
 
@@ -31,7 +31,7 @@
 
 <ul>
 
-<li><a href="http://www.hawaii.edu/cpis/MI/plants/kone.html">Kōñe, Kiej, Kiejor</a> is often called a mangrove associate because it is especially tolerant of salt. Kōn̄e emaron̄ mour ilo jo̗o̗l̗. Ekkā ello kōn̄e ijeko rōdekāke ijello̗kun an bokboke, ak ijeko me emaron̄ koba l̗o̗k ippān mar em wōjke ko rej eddek tōrerein ioon kappe.</li>
+<li><a href="http://www.hawaii.edu/cpis/MI/plants/kone.html">Kōn̄e</a> emaron̄ mour ilo jo̗o̗l̗. Ekkā ello kōn̄e ijeko rōdekāke ijello̗kun an bokboke, ak ijeko me emaron̄ koba l̗o̗k ippān mar em wōjke ko rej eddek tōrerein ioon kappe.</li>
 
 <li>Mar ko me rōmaron̄ in eddek em dāpij bwidej eo āne in ijo dān in lo̗jet ej tōpare n̄e eibwij, el̗aptata n̄e ej ko̗o̗to-iōn̄ kab ko̗o̗to-rōk.
     <ul>
@@ -71,7 +71,8 @@
 <li>Waate wōt bōkā ko em jon̄an an wanlōn̄ l̗o̗k dān in lo̗jet ilo tōre ko kwōnaaj ekkat. An okkōtaktak an wanlōn̄ tak dān in lo̗jet eo ilowaan allōn̄ ko tok im̗aan, pedped wōt ioon an okkōtaktak ae ko, rej wal̗o̗k ilo <a href="http://oos.soest.hawaii.edu/pacific-rcc/Marshalls%20Agroforestry/site/mh">website in</a>. (Men in ej jab kwal̗o̗k okkōtaktak in an wanlōn̄tak dān in lo̗jet eo jān bōkā ko, l̗an̄ ko, ak n̗o ko rōutiej jān ioon āne).</li>
   <ul>
     <li>Jab l̗ōmn̗ak in kōm̗m̗an jerbal in ekkat ilo iien eo ejejjet <a href="http://oos.soest.hawaii.edu/pacific-rcc/Marshalls%20Agroforestry/site/mh/enso.php">“El Niño Year 0”</a> kōnke l̗an̄ ko rōnaaj wal̗o̗k em maron̄ kōmaajaje ijo kwaar katōki ine ko ie.</li>
-    <li>Ko̗rum̗wij l̗o̗k raan eo kwaar peeke bwe kwōn ilen ekkat n̄e kwaar ron̄ ilo mejatoto emaron̄ in ibwij em dān in lo̗jet enaaj to̗re ioon āne. Katu ko rōkadu kūtier (me rej wal̗o̗k aolep wiik) kōn an naaj lukkuun in wanlōn̄tak dān in lo̗jet eo pedped wōt ioon bōkā em n̗o ko rej jarjar tok wōt jān l̗an̄ ko rōttol̗o̗k jān āne rej wal̗o̗k im alikkar n̄an <a href="http://www.pacioos.hawaii.edu/shoreline/runup-majuro/" target="_blank">Majuro</a> em <a href="http://www.pacioos.hawaii.edu/shoreline/runup-kwajalein/" target="_blank">Kwajelein</a>.</li>
+    <li>Ko̗rum̗wij l̗o̗k raan eo kwaar peeke bwe kwōn ilen ekkat n̄e kwaar ron̄ ilo mejatoto emaron̄ in ibwij em dān in lo̗jet enaaj to̗re ioon āne.</li>
+    <li>Katu ko rōkadu kūtier (me rej wal̗o̗k aolep wiik) kōn an naaj lukkuun in wanlōn̄tak dān in lo̗jet eo pedped wōt ioon bōkā em n̗o ko rej jarjar tok wōt jān l̗an̄ ko rōttol̗o̗k jān āne rej wal̗o̗k im alikkar n̄an <a href="http://www.pacioos.hawaii.edu/shoreline/runup-majuro/" target="_blank">Majuro</a> em <a href="http://www.pacioos.hawaii.edu/shoreline/runup-kwajalein/" target="_blank">Kwajelein</a>.</li>
   </ul>
 </ul>
 
@@ -98,19 +99,18 @@
 
 <h2>Jerbal in ekkat ko kar kōm̗m̗ani n̄an ekkatak jān-i</h2>
 
-<ul>
-<li><a href="https://www.youtube.com/watch?v=AunhShf0E5o" target="_blank">Ekkat Ine ko Ioon Causeway eo</a> ilo Wōja, Ailinglaplap Atoll ilo 2015 eo - ekkat menin eddek ko ioon ial̗ eo ekāāl me ej kobaiki ruo aeto̗.</li>
-<li><a href="https://www.youtube.com/watch?v=rmFJ3fHVbZ0">Strengthening Coastal Resilience in the outlying atolls of the Marshall Islands</a> by SPC.</li>
-<li>Jan̄n̄ōr em marilik ko rej eddek ilo tōrerein parijet in <a href="http://www.hilt.org/protected-lands/maui/waihee-refuge/" target="_blank">Waihe’e</a> ilo Maui kar katōki em bar kōmouri ālikin kar julo̗ki em kōm̗akūti menin eddek ko rōpinej ial̗ in an eddek menin eddek ko rōkkar dede in ke el̗ap kar ekkat kiden, kōn̗n̗at em juon kōn̗n̗at in Hawaii kan̗. Ālikin</li>
-</ul>
-
-<div>
+<div style="float:right">
   <a href="../images/Waihee-Landscape.jpg" data-lightbox="image-1" data-title="Waihee-Landscape"><img src="../images/Waihee-Landscape.jpg" alt="Waihee-Landscape" style="width:  auto;
   height: 150px;"></a>  
   <a href="../images/Waihee-Tournefortia-Scaevola.jpg" data-lightbox="image-2" data-title="Waihee-Tournefortia-Scaevola"><img src="../images/Waihee-Tournefortia-Scaevola.jpg" alt="Waihee-Tornefortia-Scavola.jpg" style="width:  auto;
   height: 150px;"></a> 
 </div>
 
+<ul>
+    <li><a href="https://www.youtube.com/watch?v=AunhShf0E5o" target="_blank">Ekkat Ine ko Ioon Causeway eo</a> ilo Wōja, Ailinglaplap Atoll ilo 2015 eo - ekkat menin eddek ko ioon ial̗ eo ekāāl me ej kobaiki ruo aeto̗.</li>
+    <li><a href="https://www.youtube.com/watch?v=rmFJ3fHVbZ0">Strengthening Coastal Resilience in the outlying atolls of the Marshall Islands</a> by SPC.</li>
+    <li>Jan̄n̄ōr em marilik ko rej eddek ilo tōrerein parijet in <a href="http://www.hilt.org/protected-lands/maui/waihee-refuge/" target="_blank">Waihe’e</a> ilo Maui kar katōki em bar kōmouri ālikin kar julo̗ki em kōm̗akūti menin eddek ko rōpinej ial̗ in an eddek menin eddek ko rōkkar dede in ke el̗ap kar ekkat kiden, kōn̗n̗at em juon kōn̗n̗at in Hawaii kan̗. Ālikin</li>
+</ul>
 </div>
 <?php include '_footer.php'; ?>
 </body>

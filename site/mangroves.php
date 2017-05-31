@@ -14,9 +14,13 @@
 <div id="content" role="main">
 <h1>Mangroves</h1>
 
+<img style="float:right" class="half" src="images/atoll-mangroves.jpg" />
+
 <p><a href="http://www.hawaii.edu/cpis/MI/VegTypes/Mangrove.html">Mangroves</a> are the trees and shrubs that can grow in salt water. In the Marshalls, they are usually found in wet depressions in the centers of islets (<em>pat</em>). They can also grow in sheltered areas below high tide on the shores of islets. Thick mangrove branches and roots help break waves before they reach shore.</p>
 
-<img class="whole" src="images/atoll-mangroves.jpg" />
+<br />
+<br />
+<br />
 
 <h2>Whether to plant mangroves</h2>
 

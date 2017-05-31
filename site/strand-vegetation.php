@@ -15,9 +15,9 @@
 <div id="content" role="main">
 <h1>Strand Vegetation</h1>
 
-<p><a href="http://www.hawaii.edu/cpis/MI/VegTypes/Coastal.html">Strand vegetation</a> includes “sandbuilder” plants naturally found along the shorelines, on or above the beach. It helps to stabilize the shoreline and break waves during king tides, wave events, and storm surges. It also serves as a windbreak to protect agroforests from salt spray and the drying effects of wind. The complete ecosystem includes trees, shrubs, and vines, grasses and other small plants that hold the soil and block wind and waves.</p>
+<img style="float: right" class="half"  src="images/atoll-strand.jpg"/>
 
-<img class="whole" src="images/atoll-strand.jpg" />
+<p style="float:left"><a href="http://www.hawaii.edu/cpis/MI/VegTypes/Coastal.html">Strand vegetation</a> includes “sandbuilder” plants naturally found along the shorelines, on or above the beach. It helps to stabilize the shoreline and break waves during king tides, wave events, and storm surges. It also serves as a windbreak to protect agroforests from salt spray and the drying effects of wind. The complete ecosystem includes trees, shrubs, and vines, grasses and other small plants that hold the soil and block wind and waves.</p>
 
 <h2>Where plants grow: different species belong in different zones</h2>
 
@@ -72,9 +72,9 @@
 If you plant coastal trees or shrubs:
 <ul>
 <li>Plan ahead. Soon after a king tide is a good time, to allow a few months for seedlings to take root before the next king tide. Check the <a href="https://tidesandcurrents.noaa.gov/tide_predictions.html">tide charts</a>.</li>
-<li>Sea levels over the coming months, based on large-scale processes (not including tides, local tropical storms or tsunamis) are shown here.
+<li>Sea levels over the coming months, based on large-scale processes (not including tides, local tropical storms or tsunamis) are <a href="http://oos.soest.hawaii.edu/pacific-rcc/Marshalls%20Agroforestry/site/">shown here</a>.
     <ul>
-        <li>Don't plan a planting project during  an El Niño Year 0 because there is a high risk of storms that can wash away your plantings.</li>
+        <li>Don't plan a planting project during  an <a href="http://oos.soest.hawaii.edu/pacific-rcc/Marshalls%20Agroforestry/site/enso.php"El Niño Year 0</a> because there is a high risk of storms that can wash away your plantings.</li>
         <li>Postpone your outplanting day if inundations are predicted by local radio.</li>
         <li>Short-term (weekly) forecasts of high sea level based on tides and wave trains from far-away storms are available for <a href="http://www.pacioos.hawaii.edu/shoreline/runup-majuro/">Majuro</a> and <a href="http://www.pacioos.hawaii.edu/shoreline/runup-kwajalein/">Kwajelein</a>.</li>
     </ul>
@@ -104,19 +104,18 @@ If you plant coastal trees or shrubs:
 
 <h2>Case studies</h2>
 
-<ul>
-<li><a href="https://www.youtube.com/watch?v=AunhShf0E5o">2015 Outplanting on Woja Causeway, Ailinglaplap Atoll</a> – planting strand species on an artificial causeway linking two islands.</li>
-<li><a href="https://www.youtube.com/watch?v=rmFJ3fHVbZ0">Strengthening Coastal Resilience in the outlying atolls of the Marshall Islands</a> by SPC.</li>
-<li>The <a href="http://www.hilt.org/protected-lands/maui/waihee-refuge/">Waihe’e Coastal Dunes</a> strand vegetation on Maui was restored by removing invasive species and encouraging the regrowth of kiden, kōņņat and another Hawaiian Scaevola species. After a small tsunami, these species survived and grew back much better than the invasive species.</li>
-</ul>
-
-<div>
+<div style="float:right">
   <a href="images/Waihee-Landscape.jpg" data-lightbox="image-1" data-title="Waihee-Landscape"><img src="images/Waihee-Landscape.jpg" alt="Waihee-Landscape" style="width:  auto;
   height: 150px;"></a>  
   <a href="images/Waihee-Tournefortia-Scaevola.jpg" data-lightbox="image-2" data-title="Waihee-Tournefortia-Scaevola"><img src="images/Waihee-Tournefortia-Scaevola.jpg" alt="Waihee-Tornefortia-Scavola.jpg" style="width:  auto;
   height: 150px;"></a> 
 </div>
 
+<ul>
+    <li><a href="https://www.youtube.com/watch?v=AunhShf0E5o">2015 Outplanting on Woja Causeway, Ailinglaplap Atoll</a> – planting strand species on an artificial causeway linking two islands.</li>
+    <li><a href="https://www.youtube.com/watch?v=rmFJ3fHVbZ0">Strengthening Coastal Resilience in the outlying atolls of the Marshall Islands</a> by SPC.</li>
+    <li>The <a href="http://www.hilt.org/protected-lands/maui/waihee-refuge/">Waihe’e Coastal Dunes</a> strand vegetation on Maui was restored by removing invasive species and encouraging the regrowth of kiden, kōņņat and another Hawaiian Scaevola species. After a small tsunami, these species survived and grew back much better than the invasive species.</li>
+</ul>
 </div>
 <?php include '_footer.php'; ?>
 </body>
