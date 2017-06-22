@@ -7,6 +7,11 @@
     <div class="dept-header">
         <div class="header-inner">
             <div class="banner"><img src="images/Agroforestry_banner_1300px.jpg" alt="Agroforestry in the Climate of the Marshall Islands"></div>
+            <div role="navigation" class="mobile-flag-menu">
+                <a id="rmi_translate" href="javascript:translate_to_marshallese()"><span lang="mh" xml:lang="mh">Kajin M̧ajeļ</span></a>
+                <br/>
+                <a href="#">English</a>
+            </div>
             <div class="go-to-menu"><a href="#main-menu" title="Open/close menu">Menu</a></div>
             <div role="navigation" class="menu" id="main-menu">
                 <div class="inner">
@@ -21,7 +26,7 @@
                     </ul>
                 </div>
             </div>
-             <div role="navigation" class="flag-menu" id="flag-menu">
+            <div role="navigation" class="flag-menu" id="flag-menu">
                 <div class="flag-inner">           
                   <table cellpadding="0" cellspacing="0">
                     <tr>
