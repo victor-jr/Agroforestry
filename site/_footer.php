@@ -2,9 +2,9 @@
     <div id="innerfooter">
         <ul class="footerlinks">
         </ul>
-        <a href="acknowledgements.php">Website developed by the University of Hawaiʻi with funding from the DOI USGS Pacific Islands Climate Science Center.</a>
-        <br>
-        <a href="http://oos.soest.hawaii.edu/pacific-rcc/Marshalls Agroforestry/top/index.html">About this site</a>
+        <a href="acknowledgements.php#about_this_project">About this project</a>
+        <br/>
+        <a href="acknowledgements.php#acknowledgements">Website developed by the University of Hawaiʻi with funding from the DOI USGS Pacific Islands Climate Science Center.</a>
     </div>
 </div>
 
