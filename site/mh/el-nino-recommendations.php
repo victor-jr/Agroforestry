@@ -7,6 +7,7 @@
     <style>@-ms-viewport{width:extend-to-zoom;zoom:1.0;}</style>
     <link href="./opensanshawaii/opensanshawaii.css" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Alegreya:400italic,400,700italic,700" rel="stylesheet" type="text/css">
+    <link href="../css/lightbox.css" rel="stylesheet">
     <link href="../css/home.css" rel="stylesheet" type="text/css">
 </head>
 <body>
@@ -14,6 +15,23 @@
 <div id="content" role="main">
 
 <h1>El Niño Recommendations for Agroforestry</h1>
+
+<table class="recommendationImgTable">
+    <tr>
+        <td>
+            <a href="../images/AtollWindbreakFromInside.jpg" data-lightbox="image-1" data-title="Atoll_Windbreak_From_Inside"><img src="../images/AtollWindbreakFromInside.jpg" alt="Atoll_Windbreak_From_Inside" style="width:  auto;
+  height: 150px;"></a>
+        </td>  
+        <td>
+            <a href="../images/beachBermP.jpg" data-lightbox="image-2" data-title="beach_berm"><img src="../images/beachBermP.jpg" alt="beach_berm" style="width:  auto;
+  height: 150px;"></a>
+        </td>
+    </tr>
+    <tr>
+        <td>coastal vegetation as seen from a coconut plantation</td>
+        <td>coastal vegetation as seen from the beach</td>
+    </tr>
+</table>
 
 <a id="storms"></a><h2>Prepare for possible storms</h2>
 

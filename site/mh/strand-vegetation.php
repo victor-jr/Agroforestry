@@ -15,13 +15,16 @@
 <div id="content" role="main">
 <h1><a href="http://www.hawaii.edu/cpis/MI/VegTypes/Coastal.html" target="_blank">Marilik; jan̄n̄o</a></h1>
 
+
 <img style="float: right" class="half"  src="../images/atoll-strand.jpg"/>
 
-<p style="float:left">Mar ko rej eddek tōrerein ak ioon wōt ioon kappe rōkūtbuuj mar ko me rej kōm̗m̗an bwe bok eo en eddek l̗o̗k em l̗ap l̗o̗k. Mar kein rōjipan̄ bwidej eo ioon kappe bwe en dāpdep wōt parijet eo em en rupi n̗o ko n̄e rōtōpar āne n̄e ej iōl̗ap-lep, iien ko el̗l̗ap n̗o, em elōn̄ l̗an̄. Mar kein rej bareinwōt jāliktaki wāto ko n̄an aer kōjparok keinikkan ko em ijeko rōbukwekwe jān tab in n̗o em m̗ōrā wal̗ok tok jān kōto eo. Bwe en likio pel̗aak kein ej aikuj lōn̄ wōjke, mar, ujooj em menin eddek ko jet me rōnaaj dāpij bwidej eo em jālitake wāto eo jān kōto em n̗o</p>
+
+<p>Mar ko rej eddek tōrerein ak ioon wōt ioon kappe rōkūtbuuj mar ko me rej kōm̗m̗an bwe bok eo en eddek l̗o̗k em l̗ap l̗o̗k. Mar kein rōjipan̄ bwidej eo ioon kappe bwe en dāpdep wōt parijet eo em en rupi n̗o ko n̄e rōtōpar āne n̄e ej iōl̗ap-lep, iien ko el̗l̗ap n̗o, em elōn̄ l̗an̄. Mar kein rej bareinwōt jāliktaki wāto ko n̄an aer kōjparok keinikkan ko em ijeko rōbukwekwe jān tab in n̗o em m̗ōrā wal̗ok tok jān kōto eo. Bwe en likio pel̗aak kein ej aikuj lōn̄ wōjke, mar, ujooj em menin eddek ko jet me rōnaaj dāpij bwidej eo em jālitake wāto eo jān kōto em n̗o</p>
 
 <h2>Ijeko mar ko rej eddek ie: kajjojo menin eddek kab menin mour rāinjuon jān doon rej mour ilo pel̗aak ko rōkkar bwe ren mour ie</h2>
 
 <p>Jan̄n̄ōr kab marilik ko rej mar kab wōjke ko me rej eddek āne in wōt ioon bok eo kappe. Ilo am̗ wōnāne l̗o̗k jān ioon kappe, kwōnaaj etal jol̗mān elōn̄ pel̗aak ko me mar kab wōjke kein rej eddek ie, em kwōnaaj lo aer m̗ōn̗akn̗ak jān jo̗o̗l̗, aer bwilo̗k jān kōto eo, em aer wōtlo̗k jān bwidej eo. N̄e kwōnaaj ekkat, katōki menin eddek ko ro rōkar bwe ren eddek ijeko rej eddek ie</p>
+
 
 <figure>
 <!--    <img class="whole" src="../images/strand-vegetation_schematic.jpg" /> -->
@@ -85,9 +88,9 @@
 
 <ol>
     <li>Jab m̗wijm̗wij ra jiddik jān ak juaki kōn̗n̗at ko.</li>
-    <li>Jab m̗wijm̗wij ra jiddik jān ak juaki edwaan ko, ak em̗m̗an n̄e kwōnaaj ekkat ianwe (n̄e kwōnaaj juaki edwaan ko). Ioanwe elukkuun in ekkar n̄an parijet ko kōnke eaikuj jo̗o̗l̗ n̄an an…</li>
+    <li>Jab m̗wijm̗wij ra jiddik jān ak juaki edwaan ko, ak em̗m̗an n̄e kwōnaaj ekkat loarm̗we (n̄e kwōnaaj juaki edwaan ko). Loarm̗we elukkuun in ekkar n̄an parijet ko kōnke eaikuj jo̗o̗l̗ n̄an an kōm̗m̗an jon̄an an dān in jo̗o̗l̗ eo m̗ōn̄ān̄e āne-tak in ko̗kkuri menin eddek ko jet rej jālitake parijet eo. Bar juon kain bōb ebar em̗m̗an n̄an parijet ko ej l̗eikm̗aan.</li>
     <li>Kōtl̗o̗k bwe utilomar ko ren eddek tok ālik kōn̗n̗at ko.</li>
-    <li>Kōtl̗o̗k bwe ni ko ikkutkut n̄an doon ilo aer eddek (jab kōmmāl̗oiki, em jab…).</li>
+    <li>N̄e ebool̗ ine in ni ko rej kab jino eo̗n̄ itōrerein parijet, kōtl̗o̗k bwe ren AOLEP eddek.</li>
     <li>Ālikin an lo̗jet eo kutake (ak kōjakoiki) el̗ap bwidej jān āne eo, kiden em kōn̗n̗at ko rōnaaj bar eo̗n̄ em eddek jān ine ko - kōjparoki.</li>
     <li>Kalōn̄ l̗o̗k kōn̄e ko katōki.</li>
     <li>Jab kōtl̗o̗k bwe <a href="http://www.hawaii.edu/cpis/MI/plants/kanal.html" target="_blank">kaan̄ōl</a> ko ak <a href="http://www.hawaii.edu/cpis/MI/plants/kojbar.html" target="_blank">kōjebar</a> ko ren eddek metwan l̗o̗k āne eo im m̗an l̗o̗k mar im wōjke ko jet. Katōki wōt n̗a ioon āne.</li>

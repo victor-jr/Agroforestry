@@ -71,10 +71,10 @@
 <h2>When to plant</h2>
 If you plant coastal trees or shrubs:
 <ul>
-<li>Plan ahead. Soon after a king tide is a good time, to allow a few months for seedlings to take root before the next king tide. Check the <a href="https://tidesandcurrents.noaa.gov/tide_predictions.html">tide charts</a>.</li>
+<li>Plan ahead. Soon after a king tide is a good time, to allow a few months for seedlings to take root before the next king tide. Check the <a href="https://tidesandcurrents.noaa.gov/tide_predictions.html?gid=1544">tide charts</a>.</li>
 <li>Sea levels over the coming months, based on large-scale processes (not including tides, local tropical storms or tsunamis) are <a href="http://oos.soest.hawaii.edu/pacific-rcc/Marshalls%20Agroforestry/site/">shown here</a>.
     <ul>
-        <li>Don't plan a planting project during  an <a href="http://oos.soest.hawaii.edu/pacific-rcc/Marshalls%20Agroforestry/site/enso.php"El Niño Year 0</a> because there is a high risk of storms that can wash away your plantings.</li>
+        <li>Don't plan a planting project during an <a href="enso.php">El Nino year 0</a> because there is a high risk of storms that can wash away your plantings.</li>
         <li>Postpone your outplanting day if inundations are predicted by local radio.</li>
         <li>Short-term (weekly) forecasts of high sea level based on tides and wave trains from far-away storms are available for <a href="http://www.pacioos.hawaii.edu/shoreline/runup-majuro/">Majuro</a> and <a href="http://www.pacioos.hawaii.edu/shoreline/runup-kwajalein/">Kwajelein</a>.</li>
     </ul>
@@ -90,7 +90,7 @@ If you plant coastal trees or shrubs:
 
 <ol>
     <li>Don’t cut or remove kōņņat (<em>Scaevola</em>).</li>
-    <li>Don’t cut or remove erwan [wild, inedible <em>Pandanus</em>], but it’s okay to replace it with ioanwe [an edible cultivar]. Ioanwe is especially good for shorelines because it needs salt to control a scale that infests it if it grows further inland. Another variety that is good for shorelines is lakman.</li>
+    <li>Don’t cut or remove edwaan [wild, inedible Pandanus variety], but it’s okay to replace it with loarm̗we [an edible cultivar]. loarm̗we is especially good for shorelines because it needs salt to control a scale that infests it if it grows further inland. Another variety that is good for shorelines is l̗eikm̗aan.</li>
     <li>Allow utilomar (<em>Guettardia</em>) to grow inland of kōņņat..</li>
     <li>Allow coconuts to “mat” (don’t thin them, even dense sprouts from fallen nuts).</li>
     <li>After heavy erosion, kiden (<em>Heliotropium</em>) and kōņņat will start to grow in from seeds – protect them.</li>

@@ -7,6 +7,7 @@
     <style>@-ms-viewport{width:extend-to-zoom;zoom:1.0;}</style>
     <link href="./opensanshawaii/opensanshawaii.css" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Alegreya:400italic,400,700italic,700" rel="stylesheet" type="text/css">
+    <link href="css/lightbox.css" rel="stylesheet">
     <link href="css/home.css" rel="stylesheet" type="text/css">
 </head>
 <body>

@@ -7,6 +7,7 @@
     <style>@-ms-viewport{width:extend-to-zoom;zoom:1.0;}</style>
     <link href="../opensanshawaii/opensanshawaii.css" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Alegreya:400italic,400,700italic,700" rel="stylesheet" type="text/css">
+    <link href="../css/lightbox.css" rel="stylesheet">
     <link href="../css/home.css" rel="stylesheet" type="text/css">
 </head>
 <body>
@@ -23,7 +24,7 @@ header("Pragma: no-cache");
     <tr>
     <td class="column" style="width: 45%;">
 
-        <h2>Kuwōta in (mel̗el̗e kein rej kōkāāl aolep allōn̄)</h2>
+        <h2>kobban allōn̄ ko rej jem̗l̗o̗k l̗o̗k in (mel̗el̗e kein rej kōkāāl aolep allōn̄)</h2>
 
         <div class="gauges">
             <div class="variable">Wōt</div>
@@ -80,17 +81,17 @@ header("Pragma: no-cache");
             <!-- ko case: $default -->
 
                 <!-- ko if: display() === 'watch' -->
-                    <p>An El Niño is possible. Listen to the news and continue to check this website to learn what might happen next.</p>
+                    <p>Juon <a href="elnino-calendar.php">El Niño</a> emaron̄ bōk jikin. Kāron̄jake wōt ennaan im mel̗el̗e ko (ilo retio im ial̗ in leto-letak mel̗el̗e ko jet) em waate website in n̄an lale ta emaron̄ wal̗o̗k tok ālik.</p>
                 <!-- /ko -->
 
                 <ul>
                     <li>What is the <a href="enso.php">El Niño/La Niña pattern</a>?</li>
-                    <li>How does El Niño affect the <a href="elnino-calendar.php">agroforestry calendar</a>?</li>
+                    <li>Ewi wāween an <a href="elnino-calendar.php">El Niño eo jelōt iien (raan, allōn̄, em ko jet) ekkat wōjke?</a></li>
                     <!-- ko ifnot: recentGaugeValue() == 1 && outlookGaugeValue() == 5 -->
-                        <li><a href="el-nino-recommendations.php#storms">Prepare</a> for possible storms.</li>
+                        <li><a href="el-nino-recommendations.php#storms">M̗aanjab-popo n̄an an maron̄ jetak l̗an̄ em kōto ko.</a></li>
                         <li>Wet weather will affect your crops during the El Niño year—<a href="el-nino-recommendations.php#wet">care for them</a>.</li>
                     <!-- /ko -->
-                    <li><a href="el-nino-recommendations.php#drought">Plan ahead</a> for <!--ko if: display() === 'watch'-->possible <!--/ko-->drought after the El Niño year.</li>
+                    <li><a href="el-nino-recommendations.php#drought">M̗aanjab-popo n̄an juon iien emaron̄ m̗ōrā  (ak den̄den̄-in-mājlep) ālikin El Niño eo ilo iiō eo ej jem̗l̗o̗k l̗o̗k.</a></li>
                 </ul>
 
                 <!-- ko switch: display -->

@@ -16,7 +16,7 @@
 <p>Kajjojo menin mour, menin eddek, kab menin mour ko rāinjuon ijeko rej eddek ie ilo kajjojo <a href="http://biormi.org/index.shtml?en/ecosystems.shtml#MIXED FOREST COMMUNITY" target="_blank">pel̗aak ko</a> pel̗aakin juon aelōn̄ ekkar n̄an karōkier. Keememej: epidodo l̗o̗k em etiljek l̗o̗k kōjparok pel̗aak ko me rāinjuon ilo juon aelōn̄ jān bar ekkat wōjke im mar ālikin aer kar jako ak mej. Jerbal ippān armej ro em jerbal ippān pel̗aak ko ekkar n̄an karōkier!</p>
 <ul>
     <li><a href="strand-vegetation.php">Markinenjojo ko, ujooj ko, marilik ko</a>, kab jan̄n̄ōr ko rej eddek ioon ak āne in ioon ippe em rej dāpij (ak bōkuj) parijet eo. Men in elukkuun in aorōk ioon aolep aelōn̄.</li>
-    <li><a href="mangroves.php">Mangroves</a> can grow in salt water and help break waves before they reach shore.  Mangroves are very difficult to plant on the shores of atolls.</li>
+    <li><a href="mangroves.php">Jon̄</a> ko rej eddek ilo jo̗o̗l̗ em rej jipan̄ jālitak jān n̗o ko m̗okta jān aer tōpar parijet. Jon̄ ko epen katōki ilo parijet in aelōn̄ ko.</li>
 </ul>
 <img class="whole" src="../images/atoll-mangroves-strand.jpg" />
 
@@ -49,7 +49,7 @@
 <li>Jipan̄ pel̗aak eo bar ekkat bwe en maron̄ bar wal̗o̗k juon jikin eo me ebukwekwe em emarmare. Ilo jet jikin, okar ko em ine in wōjke ko rej make bar eddek. Kōjparoki ijeko me wōjke ko kab mar ko rej make eddek ie ak wōjke ko me kwōj kōn̗aan bwe ren pād wōt ilo tiljek āinwōt am̗ kōjparoki ine in wōjke ko rōkāāl. Kōkkal̗l̗eiki em m̗wijiti.</li>
 <li>Kōtl̗o̗k bwe marilik ko ekoba wōjke ko ren eddek, bwe en bukwekwe em okran wōjke im mar kein ren dāpij bwidej eo, jālitaki wāto ko jān kōto em ren rupi n̗o ko rej tōpar āne</li>
 <li>Wōjke ko rōl̗l̗ap rōmaron̄ in kōm̗m̗an bwe en l̗ap l̗o̗k an jedmatmat parijet eo n̄an jorrāān ko wal̗o̗k tok jān lo̗jet eo n̄e rōnaaj ekkat epaake l̗o̗k meto, kōnke rōnaaj kapidodouki bwidej eo n̄e rookjak, em ae eo ej depet āne emaron̄ kutake bwidej eo jān bul̗ōn okar in wōjke ko em kāā-er</li>
-<li>Kōjparoki kajjojo menin mour em menin eddek ko ijeko rōkar baj pād wōt ie ekkar n̄an karōk ko aer ilo ijeko ebukwekwe em ijeko elōn̄ <a href="http:mangroves.php">jon̄</a> ko ie.
+<li>Kōjparoki menin mour em menin eddek ko kajjojo ijeko rōkar baj pād wōt ie ekkar n̄an karōk ko aer ijeko <a href="mangroves.php">mar in ioon kappe</a> ko rej pād ie em ijeko elōn̄ <a href="mangroves.php">jon̄</a> ie.</li>
 <li>Keememej bwe wōjke ko kam̗ōjn̗oik l̗o̗k an lo̗jet eo kutake bwidej eo em kōjakoik l̗o̗k ak eban lukkuun in kabōjrak an lo̗jet eo kutake em kōjakoik l̗o̗k bwidej eo. For a more complete explanation of coastal change, ask CMI for the "Coastal Change in the Pacific Islands" book or download it <a href="http://www.reefresilience.org/wp-content/uploads/Gombos-et-al.-2014-Coastal-Change-in-the-Pacific-Islands.pdf">here</a> (NOTE this is an 8MB file)</a>.</li>
 </ul>
 
