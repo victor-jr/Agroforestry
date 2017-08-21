@@ -89,7 +89,7 @@
 
 <ul>
     <li>Dr. Jonathan Deenik, University of Hawaiʻi at Mānoa, College of Tropical Agriculture and Human Resources, Tropical Plant and Soil Sciences (TPSS).</li>
-    <li>Karl Fellenius, <a href="https://www.cmi.edu/index.php/en/">College of the Marshall Islands</a>/Sea Grant.</li>
+    <li>Karl Fellenius, formerly <a href="https://www.cmi.edu/index.php/en/">College of the Marshall Islands</a>/Sea Grant.</li>
     <li>Anthony Ingersoll, USDA Natural Resources Conservation Service (NRCS), Pacific Island Area.</li>
     <li>Rebecca Lorennij, Republic of the Marshall Islands, Ministry of Resources &amp; Development (R&amp;D).</li>
     <li>Dr. John Marra, Regional Climate Services Director, Pacific Region, NOAA NESDIS National Centers for Environmental Information (NCEI).</li>
@@ -108,7 +108,7 @@
 <h3>Additional partners in survey organization, preparation, translation and conduct; workshop and individual review</h3>
 <ul>
   <li>Wilbert Alik, Marshallese Studies Coordinator, College of the Marshall Islands (in progress)</li>
-  <li>Don Hess, Vice President, College of the Marshall Islands</li>
+  <li>Don Hess, formerly Vice President, College of the Marshall Islands</li>
   <li>Foster Lanwe, Agriculture Extension Agent, Land Grant, College of the Marshall Islands</li>
   <li>Roger Muller, student, College of the Marshall Islands</li>
   <li>Nancy Vander Velde</li>
