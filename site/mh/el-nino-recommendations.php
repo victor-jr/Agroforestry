@@ -40,7 +40,7 @@
     <li>Prune fruit trees by removing the crossed and unproductive branches. Pruning can improve the shape of the tree and also reduce the chances it will catch wind and be damaged in a storm.</li>
     <li>Prune branches and even remove trees that have the greatest chance of falling on a house.</li>
 <!--    <li>Grow <a href="http://www.hawaii.edu/cpis/MI/plants/makmok.html">arrowroot</a> (<em>ṃakṃōk</em>), <a href="http://www.hawaii.edu/cpis/MI/plants/wot.html">giant taro</a> (<em>wot</em>), and other crops that will not be damaged in storms.</li> -->
-    <li>Grow <a href="https://ethnobiology.org/sites/default/files/pdfs/JoE/14-2/Spennemann.pdf">arrowroot</a> (<em>ṃakṃōk</em>), <a href="http://www.hawaii.edu/cpis/MI/plants/wot.html">giant taro</a> (<em>wot</em>), and other crops that will not be damaged in storms.</li> 
+    <li>Grow <a href="https://ethnobiology.org/sites/default/files/pdfs/JoE/14-2/Spennemann.pdf">arrowroot</a> (<em>m̗akm̗ōk</em>), <a href="http://www.hawaii.edu/cpis/MI/plants/wot.html">giant taro</a> (<em>wot</em>), and other crops that will not be damaged in storms.</li> 
     <li>Protect and maintain <a href="./coastal-forest.php">coastal vegetation</a> to reduce/prevent coastal erosion and damage from salt spray and salt water.</li>
     <li>Stay tuned to "chatty beetle" or radio station.</li>
 
