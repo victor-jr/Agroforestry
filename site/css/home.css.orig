@@ -137,26 +137,6 @@ h1, h2, h3, h4 {
 }
 .menu > .inner {
 }
-
-    
-.mobile-flag-menu {
-    right: 65px;
-    color: #E5D45E;
-    position: absolute;
-    bottom: 2px;
-    top: 10px;
-    text-align: center;
-    font-size: 12px;
-    z-index: 9999;
-}
-    
-@media screen and (min-width: 961px) {
-    .mobile-flag-menu {
-        display: none;
-    }
-
-}
-
 .menu ul {
     list-style: none;
     margin: 0;
@@ -295,9 +275,6 @@ ul.footerlinks li:last-child {
 @media screen and (max-width: 1200px) {
     .menu li {
         margin-right: 15px;
-    }
-    .flag-menu {
-        display: none;
     }
 }
 /*@media screen and (max-width: 1120px) {
@@ -537,22 +514,6 @@ td.column:last-child {
     }
 }
 
-table.salt {
-
-}
-table.salt h2 {
-    padding: 0;
-    margin: 0;
-}
-table.salt td {
-    border-right: 1px gray dotted;
-    border-top: 1px gray dotted;
-    vertical-align: top;
-    padding: .5em;
-}
-table.salt td:last-child {
-    border-right: none;
-}
 
 table.enso {
 
@@ -671,12 +632,3 @@ img.loading {
     display: block;
     margin: 0 auto;
 }
-
-.recommendationImg {
-    max-height: 300px;
-}
-
-.recommendationImgTable td {
-    width: 250px;
-}
-

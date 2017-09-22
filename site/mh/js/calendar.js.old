@@ -17,16 +17,16 @@ var monthsColor =  "#434348",
     months = [
         { name: 'Juun', y: 30 },
         { name: 'Jul̗ae', y: 31 },
-        { name: 'O̗kwōj', y: 31 },
-        { name: 'Jeptōm̗ba', y: 30 },
+        { name: 'O̗kwōj', y: 31 },
+        { name: 'Jeptōm̗ba', y: 30 },
         { name: 'Oktoba', y: 31 },
-        { name: 'Nobōm̗ba', y: 30 },
-        { name: 'Tijem̗ba', y: 31 },
-        { name: 'Jānwōde', y: 31 },
-        { name: 'Pāpode', y: 28 },
+        { name: 'Nobōm̗ba', y: 30 },
+        { name: 'Tijōm̗ba', y: 31 },
+        { name: 'Jānwōde', y: 31 },
+        { name: 'Pāpwōde', y: 28 },
         { name: 'M̗aaj', y: 31 },
-        { name: 'Eprōl̗', y: 30 },
-        { name: 'Māe', y: 31 }
+        { name: 'Eprōl̗', y: 30 },
+        { name: 'Māe', y: 31 }
     ];
 
 arrayForEach(months, function(month) { month.color = monthsColor });
@@ -275,7 +275,7 @@ window.calendar = function(element, bare) {
             legendType: 'default'
         }, {
             name: 'Breadfruit',
-            tableLabel: 'Breadfruit (<a href="http://www.hawaii.edu/cpis/MI/plants/ma.html">mā</a>, <a href="http://www.agroforestry.net/images/pdfs/A.mariannensis-dugdug.pdf">mejwaan</a>)',
+            tableLabel: 'Breadfruit (<a href="http://www.hawaii.edu/cpis/MI/plants/ma.html">mā</a>, <a href="http://www.agroforestry.net/images/pdfs/A.mariannensis-dugdug.pdf">mejwaan</a>)',
             data: breadfruit_Data,
             width: 6,
             dataLabels: { enabled: false },
@@ -336,4 +336,3 @@ window.calendar = function(element, bare) {
 };
 
 }());
-

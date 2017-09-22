@@ -59,3 +59,4 @@ ko.applyBindings(vm, $('#table')[0]);
 
 </body>
 </html>
+

@@ -23,6 +23,8 @@
                         <li<?php if($this_page=="el-nino-recommendations"){echo ' class="active"';}?>><a href="el-nino-recommendations.php">El Niño Recommendations</a></li>
                         <li<?php if($this_page=="longterm-recommendations"){echo ' class="active"';}?>><a href="longterm-recommendations.php">Long term Recommendations</a></li>
                         <li<?php if($this_page=="coastal-forest"){echo ' class="active"';}?>><a href="coastal-forest.php">Coastal Forest</a></li>
+                        <li<?php if($this_page=="salt-tolerant"){echo ' class="active"';}?>><a href="salt-tolerant.php">Salt and Drought Tolerant Species</a></li>
+
                     </ul>
                 </div>
             </div>
@@ -48,4 +50,3 @@
         </div>
     </div>
 </div>
-

@@ -1,8 +1,8 @@
 Region,Now,Outlook
-Majuro,-1,-1
+Majuro,-1,0
 Kwajalein,-1,0
-Jaluit,-1,-1
-Utirik,-1,0
+Jaluit,-1,0
+Utirik,-1,1
 ,,
 Notes,Above (>1 sigma) = 1, Normal (-1 to 1 sigma) = 0, Below (<-1 sigma) =-1),
 ****Bad SD file from NCEP****,,

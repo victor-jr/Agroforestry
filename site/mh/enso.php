@@ -29,7 +29,7 @@
 
 <p>
     <figure style="max-width: 900px; margin: 0 auto;">
-        <img class="whole" src="../images/el-nino-calendar.png" />
+        <img class="whole" src="../images/el-nino-calendar_mh.png" />
         <figcaption class="ack"><a href="acknowledgements.php">Figure adapted from: Lander</a></figcaption>
     </figure>
 </p>

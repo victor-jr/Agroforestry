@@ -6,7 +6,7 @@
 <div class="header">
     <div class="dept-header">
         <div class="header-inner">
-            <div class="banner"><img src="../images/Agroforestry_banner_1300px_mh.jpg" alt="Agroforestry in the Climate of the Marshall Islands"></div>
+            <div class="banner"><img src="images/Agroforestry_banner_1300px.jpg" alt="Agroforestry in the Climate of the Marshall Islands"></div>
             <div class="go-to-menu"><a href="#main-menu" title="Open/close menu">Menu</a></div>
             <div role="navigation" class="menu" id="main-menu">
                 <div class="inner">
@@ -18,8 +18,7 @@
                         <li<?php if($this_page=="el-nino-recommendations"){echo ' class="active"';}?>><a href="el-nino-recommendations.php">El Niño Recommendations</a></li>
                         <li<?php if($this_page=="longterm-recommendations"){echo ' class="active"';}?>><a href="longterm-recommendations.php">Long term Recommendations</a></li>
                         <li<?php if($this_page=="coastal-forest"){echo ' class="active"';}?>><a href="coastal-forest.php">Coastal Forest</a></li>
-                       <li<?php if($this_page=="salt-tolerant"){echo ' class="active"';}?>><a href="salt-tolerant.php">Salt and Drought Tolerant Species</a></li>
-
+                        <li<?php if($this_page=="salt-tolerant"){echo ' class="active"';}?>><a href="salt-tolerant.php">Salt and Drought Tolerant Species</a></li>
                     </ul>
                 </div>
             </div>
@@ -28,14 +27,14 @@
                   <table cellpadding="0" cellspacing="0">
                     <tr>
                       <td>
-                        <a href="#"><img src="../images/rmi_flag.png" alt="RMI Flag" hspace="10" style="width:60px;height:30px;" display="inline-block"></a><br />
-                        <a href="#"><span lang="mh" xml:lang="mh">Kajin M̧ajeļ</span></a> 
+                        <a id="rmi_translate_img" href="javascript:translate_to_marshallese()"><img src="images/rmi_flag.png" alt="RMI Flag" hspace="10" style="width:60px;height:30px;" display="inline-block"></a><br />
+                        <a id="rmi_translate" href="javascript:translate_to_marshallese()"><span lang="mh" xml:lang="mh">Kajin M̧ajeļ</span></a> 
 <!--                        <a href="#">Kajin M̧ajeļ</a> -->
 <!--                        <a href="#">Kajin Majel</a> -->
                       </td>
                       <td>
-                        <a href="javascript:translate_to_english()"><img src="../images/us_flag.png" alt="USA Flag" hspace="10" style="width:60px;height:30px;" display="inline-block"></a><br />
-                        <a href="javascript:translate_to_english()">English</a>
+                        <a href="#"><img src="images/us_flag.png" alt="USA Flag" hspace="10" style="width:60px;height:30px;" display="inline-block"></a><br />
+                        <a href="#">English</a>
                       </td>
                     </tr>
                   </table>     

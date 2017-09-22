@@ -24,7 +24,7 @@ header("Pragma: no-cache");
     <tr>
     <td class="column" style="width: 45%;">
 
-        <h2>kobban allōn̄ ko rej jem̗l̗o̗k l̗o̗k in (mel̗el̗e kein rej kōkāāl aolep allōn̄)</h2>
+        <h2>kobban allōn̄ ko rej jem̗l̗o̗k l̗o̗k in (mel̗el̗e kein rej kōkāāl aolep allōn̄)</h2>
 
         <div class="gauges">
             <div class="variable">Wōt</div>
@@ -81,17 +81,17 @@ header("Pragma: no-cache");
             <!-- ko case: $default -->
 
                 <!-- ko if: display() === 'watch' -->
-                    <p>Juon <a href="elnino-calendar.php">El Niño</a> emaron̄ bōk jikin. Kāron̄jake wōt ennaan im mel̗el̗e ko (ilo retio im ial̗ in leto-letak mel̗el̗e ko jet) em waate website in n̄an lale ta emaron̄ wal̗o̗k tok ālik.</p>
+                    <p>Juon <a href="elnino-calendar.php">El Niño</a> emaron̄ bōk jikin. Kāron̄jake wōt ennaan im mel̗el̗e ko (ilo retio im ial̗ in leto-letak mel̗el̗e ko jet) em waate website in n̄an lale ta emaron̄ wal̗o̗k tok ālik.</p>
                 <!-- /ko -->
 
                 <ul>
                     <li>What is the <a href="enso.php">El Niño/La Niña pattern</a>?</li>
-                    <li>Ewi wāween an <a href="elnino-calendar.php">El Niño eo jelōt iien (raan, allōn̄, em ko jet) ekkat wōjke?</a></li>
+                    <li>Ewi wāween an <a href="elnino-calendar.php">El Niño eo jelōt iien (raan, allōn̄, em ko jet) ekkat wōjke?</a></li>
                     <!-- ko ifnot: recentGaugeValue() == 1 && outlookGaugeValue() == 5 -->
-                        <li><a href="el-nino-recommendations.php#storms">M̗aanjab-popo n̄an an maron̄ jetak l̗an̄ em kōto ko.</a></li>
-                        <li>Wet weather will affect your crops during the El Niño year—<a href="el-nino-recommendations.php#wet">care for them</a>.</li>
+                    <li><a href="el-nino-recommendations.php#storms">M̗aanjab-popo n̄an an maron̄ jetak l̗an̄ em kōto ko.</a></li>
+                    <li>Wet weather will affect your crops during the El Niño year—<a href="el-nino-recommendations.php#wet">care for them</a>.</li>
                     <!-- /ko -->
-                    <li><a href="el-nino-recommendations.php#drought">M̗aanjab-popo n̄an juon iien emaron̄ m̗ōrā  (ak den̄den̄-in-mājlep) ālikin El Niño eo ilo iiō eo ej jem̗l̗o̗k l̗o̗k.</a></li>
+                    <li><a href="el-nino-recommendations.php#drought">M̗aanjab-popo n̄an juon iien emaron̄ m̗ōrā  (ak den̄den̄-in-mājlep) ālikin El Niño eo ilo iiō eo ej jem̗l̗o̗k l̗o̗k.</a></li>
                 </ul>
 
                 <!-- ko switch: display -->
@@ -106,7 +106,7 @@ header("Pragma: no-cache");
                 <!-- ko case: $default -->
                     <figure id="calendar" style="max-width: 600px; margin: 0 auto;">
                         <img class="arrow" src="../images/now-arrow.png" data-bind="arrow: {now: currentMonth, width: 750, offset: 10}" />
-                        <img class="whole" src="../images/el-nino-calendar.png" />
+                        <img class="whole" src="../images/el-nino-calendar_mh.png" />
                         <figcaption class="ack"><a href="acknowledgements.php">Figure adapted from: Lander</a></figcaption>
                     </figure>
                 <!-- /ko -->

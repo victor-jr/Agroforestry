@@ -16,26 +16,26 @@
 <h1 id="about_this_project">About the Project</h1>
 
 <table width="100%">
-	<tr>
-		<td>
-			<div>
-				<h2 style="color:lightblue;float:lefts;margin-bottom: 0px;">Climate Information</h2>
-			</div>
-		</td>
-		<td>
-			<div>
-				<h2 style="color:lightgreen;float:right;margin-bottom: 0px;">Agroforestry Information</h2>					
-			</div>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a style="color:lightblue;float:lefts;" target="_blank" href="http://apdrc.soest.hawaii.edu/dashboard_RMI/">(Blue site)</a>
-		</td>
-		<td>
-			<a style="color:lightgreen;float:right;" target="_blank" href="index.php">(Green site)</a>
-		</td>
-	</tr>
+    <tr>
+        <td>
+            <div>
+                <h2 style="color:lightblue;float:lefts;margin-bottom: 0px;">Climate Information</h2>
+            </div>
+        </td>
+        <td>
+            <div>
+                <h2 style="color:lightgreen;float:right;margin-bottom: 0px;">Agroforestry Information</h2>                  
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a style="color:lightblue;float:lefts;" target="_blank" href="http://apdrc.soest.hawaii.edu/dashboard_RMI/">(Blue site)</a>
+        </td>
+        <td>
+            <a style="color:lightgreen;float:right;" target="_blank" href="index.php">(Green site)</a>
+        </td>
+    </tr>
 </table>
 
 <img src="images/top_picture.png" style="width:100%"/>
@@ -48,27 +48,27 @@
 
 <p>The general principles guiding this project are:</p>
 <ul>
-	<li>
-		The Republic of the Marshall Islands has an ancient tradition of <a style="color:lightgreen" href="http://nac.unl.edu/documents/workingtrees/brochures/Working_Trees_Islands.pdf">agroforestry</a>, managing trees and food crops together. Pacific agroforestry extension agents and experienced farmers have a great depth of detailed knowledge. This project respects their “traditional ecological knowledge” and encourages younger generations and newcomers to the islands to learn directly from them.
-	</li>
-	<li>
-		Modern science offers farmers a tool: climate predictions for the coming season. Simple predictions for the next few months are shown in dials on the <a href="index.php" style="color:lightgreen">green page</a> and detailed predictions are shown at the <a href="http://apdrc.soest.hawaii.edu/dashboard_RMI" target="_blankk" style="_blank">Marshall Islands Climate Outlook</a>. (This project does not address short-term weather predictions over the next day or week.)
-	</li>
-	<li>
-		Science can also recognize and explain long-term patterns. The <a href="enso.php">general pattern of El Nino and La Nina years</a> has been the cause of extreme droughts and storms in the Marshalls in the past. If people understand the pattern, they are more likely to believe predictions of drought and make preparations.
-	</li>
-	<li>
-		Science offers the best available information about long-term climate change. <a href="climate-change.php">Climate change will have some different effects in the Marshalls</a> than in the rest of the world.
-	</li>
-	<li>
-		The project focuses on a “design life” of forty years, which includes the most productive life of a coconut plantation. After forty years, uncertainty about actual conditions increases.
-	</li>
-	<li>
-		Traditional Marshallese agroforestry is diverse (includes many crops) and resilient (includes crops that can tolerate harsh environmental conditions of atolls). Diversity and resiliency reduce risk. The project only recommends significant changes to traditional practices if there is a high probability of a change in conditions, such as a drought following El Nino, or sea level rise over time.
-	</li>
-	<li>
-		Although the Marshalls currently imports most of its food, probably most of the vitamins and fiber consumed by Marshallese come from local food. It is worth promoting agroforestry to support the health of Marshallese, their children and grandchildren.
-	</li>
+    <li>
+        The Republic of the Marshall Islands has an ancient tradition of <a style="color:lightgreen" href="http://nac.unl.edu/documents/workingtrees/brochures/Working_Trees_Islands.pdf">agroforestry</a>, managing trees and food crops together. Pacific agroforestry extension agents and experienced farmers have a great depth of detailed knowledge. This project respects their “traditional ecological knowledge” and encourages younger generations and newcomers to the islands to learn directly from them.
+    </li>
+    <li>
+        Modern science offers farmers a tool: climate predictions for the coming season. Simple predictions for the next few months are shown in dials on the <a href="index.php" style="color:lightgreen">green page</a> and detailed predictions are shown at the <a href="http://apdrc.soest.hawaii.edu/dashboard_RMI" target="_blankk" style="_blank">Marshall Islands Climate Outlook</a>. (This project does not address short-term weather predictions over the next day or week.)
+    </li>
+    <li>
+        Science can also recognize and explain long-term patterns. The <a href="enso.php">general pattern of El Nino and La Nina years</a> has been the cause of extreme droughts and storms in the Marshalls in the past. If people understand the pattern, they are more likely to believe predictions of drought and make preparations.
+    </li>
+    <li>
+        Science offers the best available information about long-term climate change. <a href="climate-change.php">Climate change will have some different effects in the Marshalls</a> than in the rest of the world.
+    </li>
+    <li>
+        The project focuses on a “design life” of forty years, which includes the most productive life of a coconut plantation. After forty years, uncertainty about actual conditions increases.
+    </li>
+    <li>
+        Traditional Marshallese agroforestry is diverse (includes many crops) and resilient (includes crops that can tolerate harsh environmental conditions of atolls). Diversity and resiliency reduce risk. The project only recommends significant changes to traditional practices if there is a high probability of a change in conditions, such as a drought following El Nino, or sea level rise over time.
+    </li>
+    <li>
+        Although the Marshalls currently imports most of its food, probably most of the vitamins and fiber consumed by Marshallese come from local food. It is worth promoting agroforestry to support the health of Marshallese, their children and grandchildren.
+    </li>
 </ul>
 
 <p>The agroforestry dashboard is still in the process of translation. Pages from this website may be downloaded and printed as handouts with no need to request permission. The agroforestry dashboard is intended to be transferred to, expanded and improved by Marshallese agriculture and agroforestry agencies and experts, with permission and acknowledgement. Please contact <a href="mailto:haws@hawaii.edu">Maria Haws</a> and <a href="mailto:kfriday@fs.fed.us">Katie Friday</a> with suggestions and requests. The project is an ongoing collaboration between the University of Hawaii, the United States Department of Agriculture, the Marshall Islands Ministry of Resources and Development, the College of the Marshall Islands, and other partners.</p>
@@ -107,7 +107,7 @@
 
 <h3>Additional partners in survey organization, preparation, translation and conduct; workshop and individual review</h3>
 <ul>
-  <li>Wilbert Alik, Marshallese Studies Coordinator, College of the Marshall Islands (in progress)</li>
+  <li>Wilbert Alik, Marshallese Studies Coordinator, College of the Marshall Islands</li>
   <li>Don Hess, formerly Vice President, College of the Marshall Islands</li>
   <li>Foster Lanwe, Agriculture Extension Agent, Land Grant, College of the Marshall Islands</li>
   <li>Roger Muller, student, College of the Marshall Islands</li>
@@ -132,7 +132,7 @@
 </div>
 <div id="footer" role="contentinfo">
     <div id="innerfooter">
-			<img src="images/logos.png" style="max-height:100px;display: block;margin-left: auto;margin-right: auto"/>
+            <img src="images/logos.png" style="max-height:100px;display: block;margin-left: auto;margin-right: auto"/>
     </div>
 </div>
 <script type="text/javascript" src="js/translate_to_marshallese.js"></script>

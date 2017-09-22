@@ -33,7 +33,7 @@
 Ask extension agents and experienced farmers about traditional and modern ways of gardening.
 
 <ul>
-   <li>Traditional agroforests have many different species, varieties and crops. This reduces risks because even if some crops fail, maybe the other crops will still produce a harvest. Having a mix of crops at one time (multicropping) or replacing one crop with another (crop rotation) helps reduce damage from insects and diseases</li>
+   <li>Traditional agroforests have many different species, varieties and crops.  This reduces risks because even if some crops fail, maybe the other crops will still produce a harvest. Having a mix of crops at one time (multicropping) or replacing one crop with another (crop rotation) helps reduce damage from insects and diseases</li>
    <li>Mulch and use compost to enrich the soil and help soil retain moisture. Compost farm wastes instead of burning them. Ask R&D for assistance chipping materials to turn into mulch or compost. Some crops grow best under the partial shade of trees.</li>
    <li>Raised beds can tolerate wet conditions and also avoid problems with salinized groundwater</li>
    <li>Improve catchment systems and use irrigation systems.</li>
@@ -67,7 +67,7 @@ Ask extension agents and experienced farmers about traditional and modern ways o
 
     <li><p>Worldwide sea levels are now rising at least 0.3 inches per year, so they will likely rise at least 12.6 inches within forty years. In addition, sea levels may temporarily rise by 12 inches during a La Niña and drop by 5 inches during an El Niño event in the Marshalls. Sea level rise is also added to the effect of each king tide and storm surge, making inundation events more frequent. Generally high sea levels will increase the salinity of groundwater. This makes it important to choose crops that are relatively <a href="http://localhost:8080/rmi_agro/Marshalls%20Agroforestry/site/salt-tolerant.php#salttolerant">salt-tolerant</a>. Plant agroforests where inundations are less frequent. For more information on the effects of sea level rise, see <a href="http://pcep.prel.org/wp-content/uploads/2014/08/PCEP-Sea-level-final.pdf">Sea Level Rise in the U.S. Affiliated Pacific Islands</a>.</p></li>
 
-    <li><p>Air temperatures will continue to get a little warmer in the Marshalls. Hot days make trees and crops thirsty, so choose trees and crops that can <a href="http://localhost:8080/rmi_agro/Marshalls%20Agroforestry/site/salt-tolerant.php#salttolerant">tolerate dry conditions</a>.</p></li>
+    <li><p>Air temperatures will continue to get a little warmer in the Marshalls. Hot days make trees and crops thirsty, so choose trees and crops that can <a href="salt-tolerant.php#salttolerant">tolerate dry conditions</a>.</p></li>
 
     <li><p>Rainfall has been generally decreasing in the Marshalls, but scientists believe it will increase in the future. However, within just the next forty years, any changes in rainfall will mostly be a result of the natural variability of rainfall in the Marshalls, especially the El Niño/La Niña cycle (ENSO). Therefore, choose trees and crops that can tolerate a variety of conditions and plant a variety of crops.</p></li>
 </ul>
