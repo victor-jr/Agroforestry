@@ -41,17 +41,15 @@
 </ul>
 
 <h3>When to plant</h3>
+<p>If you plant coastal trees or shrubs</p>
 <ul>
-<li>If you plant coastal trees or shrubs</li>
-    <ul>
-        <li>Plan ahead. Soon after a king tide is a good time, to allow a few months for seedlings to take root before the next king tide. Check the tide charts.</li>
-        <li>Sea levels over the coming months, based on large-scale processes (not including tides, local tropical storms or tsunamis) are shown here.</li>
-    </ul>
-<li>Don't plan a planting project during  an El Niño Year 0 because there is a high risk of storms that can wash away your plantings.</li>
-<li>Postpone your outplanting day if inundations are predicted by local radio.</li>
-<li>Short-term (weekly) forecasts of high sea level based on tides and wave trains from far-away storms are available for Majuro and Kwajelein.</li>
-<!--<li>Plan to do your outplanting soon after a king tide, to allow a few months for seedlings to take root before the next king tide. Tide charts are available at (click here)</li>
-<li>Don't plan a planting project during the stormy season of an El Niño Year 0.  Postpone your outplanting day if inundations are predicted by local radio.  Sea levels over the coming week, based on tides and wave trains (but not including local tropical storms and tsunamis), are shown <a href="http://apdrc.soest.hawaii.edu/dashboard_RMI/">here</a>.</li> !-->
+    <li>Plan ahead. Soon after a king tide is a good time, to allow a few months for seedlings to take root before the next king tide. Check the <a href="https://tidesandcurrents.noaa.gov/tide_predictions.html?gid=1544" target="_blank">tide charts</a>.</li>
+    <li>Sea levels over the coming months, based on large-scale processes (not including tides, local tropical storms or tsunamis) are shown <a href="index">here</a>.</li>
+    <li>Don't plan a planting project during  an <a href="enso">El Niño Year 0</a> because there is a high risk of storms that can wash away your plantings.</li>
+    <li>Postpone your outplanting day if inundations are predicted by local radio.</li>
+    <li>Short-term (weekly) forecasts of high sea level based on tides and wave trains from far-away storms are available for <a href="http://www.pacioos.hawaii.edu/shoreline/runup-majuro/" target="_blank">Majuro</a> and <a href="http://www.pacioos.hawaii.edu/shoreline/runup-kwajalein/" target="_blank">Kwajelein</a>.</li>
+    <!--<li>Plan to do your outplanting soon after a king tide, to allow a few months for seedlings to take root before the next king tide. Tide charts are available at (click here)</li>
+    <li>Don't plan a planting project during the stormy season of an El Niño Year 0.  Postpone your outplanting day if inundations are predicted by local radio.  Sea levels over the coming week, based on tides and wave trains (but not including local tropical storms and tsunamis), are shown <a href="http://apdrc.soest.hawaii.edu/dashboard_RMI/">here</a>.</li> !-->
 </ul>
 
 <h3>Technical advice on planting mangroves</h3>
@@ -85,14 +83,6 @@
 <h4>Planting mangroves in Kiribati</h4>
 
 <p>Kiribati, like the Marshalls, is a nation of atolls, where sea level rise and coastal erosion are of great concern. Mangroves are an important resource in Kiribati and a mangrove planting program has been ongoing for at least twenty years. <em>Rhizophora stylosa</em> (a close relative of eoeak) is one of the most important species for planting. Propagules are planted along shorelines and causeways. For a short description of Kiribati mangrove planting, see this <a href="http://www.glomis.com/news/newsletter/ISMENews39(201403).pdf" target="_blank">newsletter</a> from the International Society for Mangrove Ecosystems.</p>
-
-<p><em>Planning to plant eoeak on the coast of Ailuk</em></p>
-
-<p>The Ailuk Atoll Marine Resource Management Advisory Committee was interested in planting mangroves on the coast of Ailuk to reduce shoreline erosion. Rhizophora was selected as the most appropriate species for coastal planting, but it would have to be brought from other atolls. A planting site was chosen (1) between high and low tide (2) at a spot sheltered from wind and waves (3) with soft sediments good for planting propagules (4) from where the tide flowed into the lagoon, not the ocean. The project’s “Natural Resource Assessment Survey” explains the considerations and plans for mangrove planting.</p>
-
-<p><em>Planting mangroves in Kiribati</em></p>
-
-<p>Kiribati, like the Marshalls, is a nation of atolls, where sea level rise and coastal erosion are of great concern. Mangroves are an important resource in Kiribati and a mangrove planting program has been ongoing for at least twenty years. Rhizophora stylosa (a close relative of eoeak) is one of the most important species for planting. Propagules are planted along shorelines and causeways. For a short description of Kiribati mangrove planting, see this newsletter.</p>
 
 </div>
 <?php include '_footer.php'; ?>
