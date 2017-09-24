@@ -17,9 +17,9 @@
 
 <ul>
     <li>This is a generalized calendar for “normal” years.</li>
-    <li>The Marshallese year is divided into two major seasons, <em>Añōn Rak</em> and <em>Añōneañ</em>.</li>
+    <li>The Marshallese year is divided into two major seasons, <em>Rak</em> and <em>An̄ōnean̄</em>.</li>
     <li>The calendar focuses on harvest times of traditional crops, because they are perennial (not planted every year).</li>
-    <li>This calendar shows how wind, waves and rain change during the seasons of an “average” year. Agroforestry recommendations are similar for “average,” neutral or La Niña years. The calendar is circular because the patterns generally repeat unless there is an El Niño. <a href="elnino-calendar.php">A different calendar is shown for El Niño years</a>.</li>
+    <li>This calendar shows how wind, waves and rain change during the seasons of an “average” year. Agroforestry recommendations are similar for normal years and La Niña years. The calendar is circular because the patterns generally repeat. <a href="elnino-calendar.php">A different calendar is shown for El Niño years</a>.</li>
     <li>This calendar is very general for the Marshalls. Each atoll could have its own calendar, since the <a href="images/RMI_30_yr_rain_avg.png">northern atolls have a strong dry season</a>.</li>
 </ul>
 
@@ -27,7 +27,7 @@
 <calendar-table id="table" params="chartOptions: chartOptions"></calendar-table>
 
 
-<p style="font-size: .8em;"><em>Note:</em> Giant land taro (wōt) and some other crops could be harvested year round; this calendar shows them with harvest seasons during Añōneañ because people prefer to harvest other crops at other times.</p>
+<p style="font-size: .8em;"><em>Note:</em> Giant land taro (wōt) and some other crops could be harvested year round; this calendar shows them with harvest seasons during Añōneañ because people prefer to harvest breadfruit and taro during Rak.</p>
 
 <p>Other planting or harvesting calendars can be created for different crops and different atolls. Examples include:</p>
 <ul>

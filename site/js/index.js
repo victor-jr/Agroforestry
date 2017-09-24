@@ -1,4 +1,5 @@
 (function() {
+
 // simple String.includes polyfill
 if (!String.prototype.includes) {
     String.prototype.includes = function(search) {
@@ -85,7 +86,6 @@ var vm = {
     outlookGaugeValue: ko.observable(3)
 };
 ko.applyBindings(vm);
-
 
 // Helper code to load/parse ENSO status and update viewmodel
 

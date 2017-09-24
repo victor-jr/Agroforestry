@@ -13,22 +13,23 @@
 <?php include '_header.php'; ?>
 <div id="content" role="main">
 
-<h1>Marshallese agroforestry calendar — El Niño</h1>
+<h1>Kōl̗ōn̗ta in kin ekkan ko an Ri-M̗ajel̗ - El Nin̄o</h1>
 
 <ul>
-<li>This calendar shows how wind, waves and rain change during the onset and peak of an El Niño year, and the aftereffects of drought and reduced harvests the following year.</li>
-<li>The total El Niño phase takes about two years. When it ends, it does not cycle back on itself — it usually goes back to neutral or La Niña conditions, so go to the <a href="calendar.php">“normal” calendar</a>.</li>
-<li>The Marshallese year is divided into two major seasons, Añōn Rak and Añōneañ. The El Niño year makes Rak early and wet, and the following year makes Añōneañ very long.</li>
-<li>The calendar focuses on <em>harvest</em> times of traditional crops, because they are perennial (not planted every year). Harvests are reduced by the El Niño drought.</li>
-<li><a href="el-nino-recommendations.php">Prepare for possible storms and care for crops during the first, wet year, and plan ahead for drought in the second year..</a></li>
-<li>This calendar is very general for the Marshalls. Each atoll could have its own different calendar, especially since the <a href="images/RMI_30_yr_rain_avg.png">northern atolls have a strong dry season</a> and are more affected by the El Niño drought.</li>
+    <li>Kōl̗ōn̗ta in ej kwal̗ok wāween an kōto, n̗o, im wōt oktak ilo tōreen an jino im iol̗ap in iiō in El Nin̄o, im an̄jiwiwi ko einwōt iien m̗ōrā im dik l̗o̗k an le kein ekkan ilo iiō n̗e ālkin.</li>
+    <li>Aitok in tōreen El Nin̄o ekkā an ruo iiō. N̄e ejem̗l̗o̗k, eban bar jino jen jinoin, ekkā an ro̗o̗l n̄an bar jekjek eo m̗okta n̄e ejjab eoktak im La Nin̄a, lale  <a href="calendar">“normal”</a> kōl̗ōn̗ta.</li>  
+    <li>Kōl̗ōn̗ta in M̗ajel̗ ej ajej ilo ruo m̗ōttan ko, Rak im An̄ōnean̄. El Nin̄o ej kōm̗m̗an bwe Rak en kadu kūtien im m̗ōl̗awi, im tok ālik kōm̗m̗an bwe An̄ōnean̄ en aetok kūtien.</li>
+    <li>Kōl̗ōn̗ta in ej pedped ioon iien m̗adm̗ōd ko an kein ekkan ko kijed, kōnke eto kūtien aer eddek (rej jab ekkat aolep iiō). Iien m̗adm̗ōd kein rej dik l̗o̗k itok wōt jān an̄ōnean̄ in El Nin̄o.</li>
+    <li>Kōl̗ōn̗ta in ej pedped ioon iien m̗adm̗ōd ko an kein ekkan ko kijed, kōnke eto kūtien aer eddek (rej jab ekkat aolep iiō). Edik tōprak ko ilo iien m̗adm̗ōd (eiet kein ekkan) itok jān an̄ōnean̄ in El Nin̄o</li>
+    <li><a href="el-nino-recommendations">Pojak n̄an iien l̗an̄ ko im loloorjake kein ekkan ko ilo iiō n̗e jinoin, bwe em̗ōl̗awi, im jino l̗ōmn̗ak e iiō in m̗ōrā n̗e ej pojak in wal̗ok iiō n̗e tokālik.</a></li>
+    <li>Kōl̗ōn̗ta in ej n̄an kwal̗o̗k mel̗el̗e ikijjeen jorrāān ko wal̗o̗k jān El Nin̄o ilo M̗ajel̗. Ijo wōt ke, ej jab lukkuun alikkar n̄an kajjojo aelōn̄ bwe reoktak jān doon.  Emaron̄ wōr emaron̄ naaj kōm̗m̗an kōl̗ōnta n̄an kajjojo iaan aelōn̄ ko.  <a href="../images/RMI_30_yr_rain_avg.png" target="_blank">Aelōn̄ ko tuiōn̄ rōkajoor aer m̗ōrā</a> im l̗apl̗o̗k aer kajoor jorrāān jān iien m̗ōrā ko ilo El Nin̄o.</li>
 </ul>
 
 <div id="container" style="height: 800px; margin: 0 auto"></div>
 
 <calendar-table id="table" params="chartOptions: chartOptions"></calendar-table>
 
-<p style="font-size: .8em;"><em>Note:</em> Giant land taro (wōt) and some other crops could be harvested year round; this calendar shows them with harvest seasons during Añōneañ because people prefer to harvest other crops at other times.</p>
+<p style="font-size: .8em;"><em>Kein kakememej:</em> Wōt (Giant taro) im bar jet kain kein ekkan rōmaron̄ kalle aolep iien. kōl̗ōn̗ta in ej kwal̗ok iien m̗adm̗ōd ko ilo tōreen An̄ōnean̄ kōnke ilo tōreen Rak, armej rōkōnaan ekkat mā im iaraj</p>
 </div>
 <?php include '_footer.php'; ?>
 

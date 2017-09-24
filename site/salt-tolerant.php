@@ -14,8 +14,8 @@
 <div id="content" role="main">
 
 <h1>Tables of Salt-tolerant and Drought-tolerant species</h1>
-<p>Simple tables of salt-tolerant and drought-tolerant species are found below. These are all species that are native to the Marshalls or already common in the Marshalls.</p>
-<p> The U.S. Department of Agriculture, Natural Resources Conservation Service, provides an interactive spreadsheet that enables you to create a list for certain atolls or certain conditions. Go to the USDA NRCS website , scroll to “Plant Materials Technical Notes” and click #11 “Coral Atoll Agroforestry Plant Screener.” This includes some additional species that are not already common in the Marshalls. It does not include invasive species. The information in the tables below is all from this spreadsheet.</p>
+<p>Simple tables of salt-tolerant and <a href="#droughtTolerantSpecies">drought-tolerant species</a> are found below. These are all species that are native to the Marshalls or already common in the Marshalls.</p> 
+<p> The U.S. Department of Agriculture, Natural Resources Conservation Service, provides an interactive spreadsheet that enables you to create a list for certain atolls or certain conditions. Go to the <a href="https://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/pia/technical/?cid=nrcs142p2_037391#plantmaterials" target="_blank">USDA NRCS website</a> , scroll to “Plant Materials Technical Notes” and click #11 “Coral Atoll Agroforestry Plant Screener.” This includes some additional species that are not already common in the Marshalls. It does not include invasive species. The information in the tables below is all from this spreadsheet.</p> 
 
 <h2>Salt-tolerant species table</h2> 
 <table class="salt">
@@ -24,10 +24,9 @@
     <td colspan="1"><h2>Scientific Name</h2></td>
     <td colspan="1"><h2>Marshallese Name</h2></td>
     <td colspan="1"><h2>Wind Tolerant</h2></td>
-    <td colspan="1"><h2>Type or Habitat</h2></td>
-</tr>
+    <td colspan="1"><h2>Plant Type</h2></td> </tr>
 <tr>
-    <td width="20%" rowspan=5>Mangroves and associates (can grow in salt water, below high tide</td>
+    <td width="20%" rowspan=5><a href="mangroves">Mangroves</a> and associates (can grow in salt water, below high tide</td> 
     <td width="30%"><i>Pemphis acidula</i></td>
     <td width="30%">Kiej (kōn̄e) (kiejor)</td>
     <td width="10%">?</td>
@@ -53,7 +52,7 @@
     <td width="10%">Yes</td>
     <td width="10%">Tree</td>
 </tr>
-    <td width="20%" rowspan=11>Strand forest species (grow on beach berm)</td>
+    <td width="20%" rowspan=11><a href="strand-vegetation">Strand forest</a> species (grow on beach berm)</td> 
     <td width="30%"><i>Pandanus tectorius</i></td>
     <td width="30%">Bōb</td>
     <td width="10%">Yes</td>
@@ -263,17 +262,17 @@
 
 </table>
 
-<h2>Drought-tolerant species table</h2>
+<h2 id="droughtTolerantSpecies">Drought-tolerant species table</h2> 
 <table class="salt">
-   <tr>
-      <td width="30%"><i>Heliotropium foertherianum</i></td>
-      <td width="30%">kirin, kiden, tree heliotrope</td>
-      <td width="10%">12</td>
-      <td width="10%">200</td>
-      <td width="10%">Yes</td>
-      <td width="10%">Tree</td>
-   <tr>
-   </tr>
+    <tr>
+        <td colspan="1"><h2>Scientific Name</h2></td> 
+        <td colspan="1"><h2>Marshallese or English name</h2></td> 
+        <td colspan="1"><h2>Minimum rainfall (inches/year)</h2></td> 
+        <td colspan="1"><h2>Maximum rainfall (inches/year)</h2></td> 
+        <td colspan="1"><h2>Drought tolerant</h2></td> 
+        <td colspan="1"><h2>Plant Type</h2></td> 
+        </tr> 
+    <tr>
       <td width="30%"><i>Fimbristylis cymosa</i></td>
       <td width="30%">padalij aan, tropical fimbry</td>
       <td width="10%">15</td>

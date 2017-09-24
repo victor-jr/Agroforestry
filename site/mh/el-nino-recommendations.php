@@ -14,7 +14,9 @@
 <?php include '_header.php'; ?>
 <div id="content" role="main">
 
-<h1>El Niño Recommendations for Agroforestry</h1>
+<h1>Menin rōjan̄ ko ilo iien El Nin̄o ikijjeen Agroforestry ak jerbal in ekkat im kōjparok kein ekkan ko.</h1>
+
+<h2>Kōjparok kein ekkan ko iparijet n̄an bōbrae agroforest ak kein ekkan ko jet kōto ko ilo iien kōto ko reḷḷap im iien m̗ōrā ko.</h2>
 
 <table class="recommendationImgTable">
     <tr>
@@ -28,49 +30,44 @@
         </td>
     </tr>
     <tr>
-        <td>coastal vegetation as seen from a coconut plantation</td>
-        <td>coastal vegetation as seen from the beach</td>
+        <td>Kein ekkan ko einwōt an wal̗o̗k ijeko ewōr ni rej eddek ie </td>
+        <td>Kein ekkan ko einwōt an wal̗o̗k ijeko iparijet.</td>
     </tr>
 </table>
 
-<a id="storms"></a><h2>Prepare for possible storms</h2>
+<a id="storms"></a><h2>Kōppopo n̄an iien el̗l̗ap kōto ko</h2>
 
-<p>During the El Niño year, tropical storms and even typhoons may hit the Marshalls.</p>
+<p>Ilo iiō in El Nin̄o ko, tropical storm ak kōto/ṇo ko rōl̗l̗ap koba taibuun ko rōmaron̄ jelōt M̗ajel̗.</p>
+
 <ul>
-    <li>Prune fruit trees by removing the crossed and unproductive branches. Pruning can improve the shape of the tree and also reduce the chances it will catch wind and be damaged in a storm.</li>
-    <li>Prune branches and even remove trees that have the greatest chance of falling on a house.</li>
-<!--    <li>Grow <a href="http://www.hawaii.edu/cpis/MI/plants/makmok.html">arrowroot</a> (<em>ṃakṃōk</em>), <a href="http://www.hawaii.edu/cpis/MI/plants/wot.html">giant taro</a> (<em>wot</em>), and other crops that will not be damaged in storms.</li> -->
-    <li>Grow <a href="https://ethnobiology.org/sites/default/files/pdfs/JoE/14-2/Spennemann.pdf">arrowroot</a> (<em>m̗akm̗ōk</em>), <a href="http://www.hawaii.edu/cpis/MI/plants/wot.html">giant taro</a> (<em>wot</em>), and other crops that will not be damaged in storms.</li> 
-    <li>Protect and maintain <a href="./coastal-forest.php">coastal vegetation</a> to reduce/prevent coastal erosion and damage from salt spray and salt water.</li>
-    <li>Stay tuned to "chatty beetle" or radio station.</li>
-
+    <li>Prune ak Karreo wōjke ko ilo am̗ jol̗o̗k ra rej kōm̗m̗an pok ak rej jab kalle.  Karreoik wōjke ko emaron̄ jipan̄ kōm̗anm̗anl̗o̗k jekjek in wōjke ko bareinwōt jipan̄ kadikl̗o̗k an wōjke ko epidodo aer bo̗bo kōto im kōm̗m̗an ko̗uwōtata ilo iien l̗an̄ ko.</li>
+    <li>Karreo wōjke ko ak em̗m̗anl̗o̗k jol̗o̗k wōjke ko epidodo aer naaj okjak ej wāween eo em̗m̗an tata n̄an bōbrae an naaj wōjke ko okjak im jiped juon em̗.</li>
+    <li>Ekkat m̗akm̗ōk , wot, im kein ekkan ko jet epen aer naaj jorrāān ilo iien ko ewōr kōto/n̗o ko rōl̗l̗ap.</li>
+    <li>Kōjparok im nikniki coastal vegetation ak kein ekkan ko iturin parijet n̄an kadikl̗o̗k/bōbrae coastal erosion ak an rōm̗ itōrerein parijet im jorrāān ko jet wal̗o̗k jān tab in n̗o ko ak jān lo̗jet eo.</li>
+    <li>Ron̄jake wōt “chatty beetle” ak retio ko.</li>
 </ul>
 
-<a id="wet"></a><h2>Wet weather will affect your crops during the El Niño year – care for them</h2>
+<a id="wet"></a><h2>M̗ōl̗awi in mejatoto ko rōmaron̄ bar jelōt kein ekkan ko ilo iiōōn El Nin̄o ko - kōjparoki</h2>
 
-<p>During the early months of an El Niño year (January – June), even before an “advisory” is announced, rainfall is higher than normal. It may continue to be wetter than usual all that year, through November or December.</p>
+<p>Ilo allōn̄ ko im̗aan tata ilo iiō in El Nin̄o ko (Jawōde – Juun), emaron̄ m̗okta l̗o̗k jān an wal̗o̗k naan in kean̄ ak kōkapilōklōk ko, enaaj l̗ap an wōt jān jon̄an ko ekkā an wōtlo̗k.  Emaron̄ wōnm̗aanl̗o̗k wōt an l̗ap an m̗ōl̗awi mejatoto jān jon̄an ilo iiō en̗, m̗aan l̗ok n̄an Nobōm̗ba ak Tijem̗ba.</p>
 <ul>
-    <li>Grow vegetables in raised beds, for good drainage.</li>
-    <li>Look at <a href="http://apdrc.soest.hawaii.edu/dashboard_RMI/">rainfall predictions</a>: plant short-term crops if there will be enough time for them to grow deep roots or even give harvests before the drought.</li>
-    <ul>
-        <li><a href="http://guides.library.manoa.hawaii.edu/paccrops/cassava">Cassava</a> (<em>Manihot esculenta, tapioka</em>)</li>
-        <li><a href="http://avrdc.org/benefits-bele">Edible hibiscus</a> (<em>Abelmoschus manihot</em>, <em>bele</em>)</li>
-        <li><a href="http://www.ctahr.hawaii.edu/sustainag/extn_pub/veggie pubs/Chaya, Spinach Tree, Chay, Kikilchay.pdf">Tree spinach</a> (<em>Cnidoscolus chayamansa, chaya</em>)</li>
-        <li><a href="http://guides.library.manoa.hawaii.edu/paccrops/sweetpotato">Sweet potato</a> (<em>Ipomoea batatas</em>, juweet piteto)</li>
-        <li><a href="http://www.hawaii.edu/cpis/MI/plants/baanke.html">Pumpkin</a> (<em>Cucurbita pepo</em>, <em>baañke</em>)</li>
-    </ul>
-    <li>Cultivate <em>bele</em> and <em>chaya </em> as nutritious, leafy vegetable shrubs that are fairly tolerant of drier conditions. These crops should be replanted by shoots every 2–3 months in partially shaded to open sites.</li>
+    <li>Ekkat leen wōjke ko ilo bwidej ko rōutiej, bwe en em̗m̗an an to̗o̗rl̗o̗k dān ko jāni.</li>
+    <li>Lale katu in wōt ko: ekkat kein ekkan ko em̗ōkaj aer eddek im maron̄ kalle m̗okta jān iien det ko.</li>
+    <li>Iaraj</li>
+    <li>Pele</li>
+    <li>Piteto (Sweet Potatoe)</li>
+    <li>Baan̄ke</li>
+    <li>Ekkat pele bwe rōūni im rōkabwebwe bwe epidodo aer eddek ijeko rōm̗ōrā.  Men kein kwōj aikuj bar katōki jān jul̗ier aolep kajjojo ruo l̗o̗k n̄an jilu allōn̄ ilo ijeko rōllor jidik im pel̗l̗o̗k.</li>
 </ul>
 
-<a id="drought"></a><h2>Plan ahead for a drought after the El Niño year</h2>
+<a id="drought"></a><h2>Kōppopo m̗ōm̗ōkaj jān iien m̗ōrā ālikin iiō in El Nin̄o eo</h2>
 
-<p>During the year following an El Niño year, rainfall is lower than normal. Some crops might fail.</p>
+<p>Ilo iiō eo ālikin iiō in El Nin̄o eo, enaaj dik an wōt jen jon̄an ko ekkā an wōtlo̗k.  Ewōr jet kein ekkan ko rōmaron̄ jab eddek.</p>
 <ul>
-    <li>Look at the <a href="http://apdrc.soest.hawaii.edu/dashboard_RMI/">rainfall predictions</a> – decide whether to postpone planting long-term crops like trees until after the drought.</li>
-    <li>Repair tanks (for taro) and catchment systems.</li>
-    <li>Mulch plants and use compost to retain soil water.</li>
-    <li>Preserve breadfruit, pandanus, and other crops.</li>
-<!--    <li>Learn about emergency/starvation foods (for example, <em>Crinumand ixora</em>).</li> -->
+    <li>Lale katu in wōt ko - kāālōt el̗an̄n̄e kwōj aikuj ko̗rum̗wij l̗o̗k am̗ ekkat kein ekkan ko eto kūtien aer eddek āinwōt ni ak wōjke ko m̗ae iien ejem̗l̗o̗k iien m̗ōrā.</li>
+    <li>Kōpooj jikin dān ko (n̄an iaraj) im kein idaak ko.</li>
+    <li>Kōm̗m̗an kōn̗ jān kein ekkan ko jet im kōjerbali n̄an jipan̄ dāpij dān ak m̗ōl̗awi in bwidej ko.</li>
+    <li>Kōpooj mā (n̄an bwiro) im bōb (n̄an mokwan̗) im kein ekkan ko jet.</li>
 </ul>
 
 </div>

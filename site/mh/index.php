@@ -81,7 +81,7 @@ header("Pragma: no-cache");
             <!-- ko case: $default -->
 
                 <!-- ko if: display() === 'watch' -->
-                    <p>Juon <a href="elnino-calendar.php">El Niño</a> emaron̄ bōk jikin. Kāron̄jake wōt ennaan im mel̗el̗e ko (ilo retio im ial̗ in leto-letak mel̗el̗e ko jet) em waate website in n̄an lale ta emaron̄ wal̗o̗k tok ālik.</p>
+                    <p>Juon <a href="elnino-calendar">El Niño</a> emaron̄ bōk jikin. Kāron̄jake wōt ennaan im mel̗el̗e ko (ilo retio im ial̗ in leto-letak mel̗el̗e ko jet) em waate website in n̄an lale ta emaron̄ wal̗o̗k tok ālik.</p>
                 <!-- /ko -->
 
                 <ul>
