@@ -13,7 +13,7 @@
 <?php include '_header.php'; ?>
 <div id="content" role="main">
 <h1>Kwōn Kōjparoki Wōjke im Mar ko Rej Eddek Tōrerein Parijet eo</h1>
-<p>Kajjojo menin mour, menin eddek, kab menin mour ko rāinjuon ijeko rej eddek ie ilo kajjojo <a href="http://biormi.org/index.shtml?en/ecosystems.shtml#MIXED FOREST COMMUNITY" target="_blank">pel̗aak ko</a> pel̗aakin juon aelōn̄ ekkar n̄an karōkier. Keememej: epidodo l̗o̗k em etiljek l̗o̗k kōjparok pel̗aak ko me rāinjuon ilo juon aelōn̄ jān bar ekkat wōjke im mar ālikin aer kar jako ak mej. Jerbal ippān armej ro em jerbal ippān pel̗aak ko ekkar n̄an karōkier!</p>
+<p>Kajjojo menin mour, menin eddek, kab menin mour ko rāinjuon ijeko rej eddek ilo kajjojo <a href="http://biormi.org/index.shtml?en/ecosystems.shtml#MIXED FOREST COMMUNITY" target="_blank">pel̗aak ko</a> pel̗aakin juon aelōn̄ ekkar n̄an karōkier. Keememej: epidodo l̗o̗k em etiljek l̗o̗k kōjparok pel̗aak ko me rāinjuon ilo juon aelōn̄ jān bar ekkat wōjke im mar ālikin aer kar jako ak mej. Jerbal ippān armej ro em jerbal ippān pel̗aak ko ekkar n̄an karōkier!</p>
 <ul>
     <li><a href="strand-vegetation.php">Markinenjojo ko, ujooj ko, marilik ko</a>, kab jan̄n̄ōr ko rej eddek ioon ak āne in ioon ippe em rej dāpij (ak bōkuj) parijet eo. Men in elukkuun in aorōk ioon aolep aelōn̄.</li>
     <li><a href="mangroves.php">Jon̄</a> ko rej eddek ilo jo̗o̗l̗ em rej jipan̄ jālitak jān n̗o ko m̗okta jān aer tōpar parijet. Jon̄ ko epen katōki ilo parijet in aelōn̄ ko.</li>

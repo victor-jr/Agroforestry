@@ -13,7 +13,7 @@
 <body>
 <?php include '_header.php'; ?>
 <div id="content" role="main">
-<h1><a href="http://www.hawaii.edu/cpis/MI/VegTypes/Coastal.html" target="_blank">Marilik; jan̄n̄o</a></h1>
+<h1><a href="http://www.hawaii.edu/cpis/MI/VegTypes/Coastal.html" target="_blank">Marilik; jan̄n̄ōr</a></h1>
 
 <img style="float: right" class="half"  src="../images/atoll-strand.jpg"/>
 

@@ -24,7 +24,7 @@ header("Pragma: no-cache");
     <tr>
     <td class="column" style="width: 45%;">
 
-        <h2>kobban allōn̄ ko rej jem̗l̗o̗k l̗o̗k in (mel̗el̗e kein rej kōkāāl aolep allōn̄)</h2>
+        <h2>kobban allōn̄ ko rej jem̗l̗o̗k l̗o̗k in (mel̗el̗e kein rej kōkkāāl aolep allōn̄)</h2>
 
         <div class="gauges">
             <div class="variable">Wōt</div>
@@ -51,14 +51,14 @@ header("Pragma: no-cache");
     </td>
 
     <td class="column">
-        <h2>Iiō in (mel̗el̗e kein rej kōkāāl aolep allōn̄)</h2>
+        <h2>Iiō in (mel̗el̗e kein rej kōkkāāl aolep allōn̄)</h2>
 
         <img class="loading" src="../images/loading_lg.gif" data-bind="hidden: display" />
 
         <div data-bind="visible: display, if: display" style="display: none;">
             <div class="gauges">
                 <div class="variable" data-bind="text: advisory"></div>
-                <div class="when-updated" data-bind="visible: advisoryDate">kōkāāl <a href="http://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.html">{{advisoryDate}}</a></div>
+                <div class="when-updated" data-bind="visible: advisoryDate">kar kōkkāāl ilo <a href="http://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.html">{{advisoryDate}}</a></div>
                 <div>
                     <!-- ko if: recentGaugeValue -->
                         <div class="gauge" data-bind="elninoGauge: {value: recentGaugeValue, which: 'recent'}"></div>
