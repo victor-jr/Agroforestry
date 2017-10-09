@@ -26,7 +26,7 @@
     <td colspan="1"><h2>Wind Tolerant</h2></td>
     <td colspan="1"><h2>Plant Type</h2></td> </tr>
 <tr>
-    <td width="20%" rowspan=5><a href="mangroves">Mangroves</a> and associates (can grow in salt water, below high tide</td> 
+    <td width="20%" rowspan=5><a href="mangroves.php">Mangroves</a> and associates (can grow in salt water, below high tide</td> 
     <td width="30%"><i>Pemphis acidula</i></td>
     <td width="30%">Kiej (kōn̄e) (kiejor)</td>
     <td width="10%">?</td>
@@ -52,7 +52,7 @@
     <td width="10%">Yes</td>
     <td width="10%">Tree</td>
 </tr>
-    <td width="20%" rowspan=11><a href="strand-vegetation">Strand forest</a> species (grow on beach berm)</td> 
+    <td width="20%" rowspan=11><a href="strand-vegetation.php">Strand forest</a> species (grow on beach berm)</td> 
     <td width="30%"><i>Pandanus tectorius</i></td>
     <td width="30%">Bōb</td>
     <td width="10%">Yes</td>

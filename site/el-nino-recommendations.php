@@ -24,6 +24,7 @@
             <a href="images/AtollWindbreakFromInside.jpg" data-lightbox="image-1" data-title="Atoll_Windbreak_From_Inside"><img src="images/AtollWindbreakFromInside.jpg" alt="Atoll_Windbreak_From_Inside" style="width:  auto;
   height: 150px;"></a>
         </td>  
+        <td colspan="2"></td>
         <td>
             <a href="images/beachBermP.jpg" data-lightbox="image-2" data-title="beach_berm"><img src="images/beachBermP.jpg" alt="beach_berm" style="width:  auto;
   height: 150px;"></a>
@@ -31,6 +32,7 @@
     </tr>
     <tr>
         <td>coastal vegetation as seen from a coconut plantation</td>
+        <td colspan="2"></td>
         <td>coastal vegetation as seen from the beach</td>
     </tr>
 </table>

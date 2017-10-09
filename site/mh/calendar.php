@@ -19,7 +19,7 @@
     <li>Kōl̗ōn̗ta in ej n̄an iiō ko ejjel̗o̗k El Nin̄o ak La Nin̄a.</li>
     <li>Kōl̗ōn̗ta in M̗ajel̗ ej ajeej ilo ruo m̗ōttan ko, Rak im An̄ōnean̄.</li>
     <li>Kōl̗ōn̗ta in ej pedped ioon iien m̗adm̗ōd an kein ekkan ko kijed, kōnke eto kūtien aer eddek (rej jab ekkat aolep iiō).</li>
-    <li>Kōl̗ōn̗ta in kwal̗o̗k wāween an kōto, n̗o, im wōt oktak ilo iiō ko ejjel̗o̗k El Nin̄o ak La Nin̄a.  Naan in kean̄ ko ikijien kein ekkan ko rej juon wōt ilo tōre ko watōki ‘normal’ im La Nin̄a.  Kōl̗ōnta in wal̗o̗k ilo jekjek in doulul n̄an kallikkar ke enaaj bar ro̗o̗l im jino jān jinoun.  <a href="elnino-calendar">Bar juon kōl̗ōnta waj wal̗o̗k n̄an iiō in El Nin̄o ko.</a></li>
+    <li>Kōl̗ōn̗ta in kwal̗o̗k wāween an kōto, n̗o, im wōt oktak ilo iiō ko ejjel̗o̗k El Nin̄o ak La Nin̄a.  Naan in kean̄ ko ikijien kein ekkan ko rej juon wōt ilo tōre ko watōki ‘normal’ im La Nin̄a.  Kōl̗ōnta in wal̗o̗k ilo jekjek in doulul n̄an kallikkar ke enaaj bar ro̗o̗l im jino jān jinoun.  <a href="elnino-calendar.php">Bar juon kōl̗ōnta waj wal̗o̗k n̄an iiō in El Nin̄o ko.</a></li>
     <li>Kōl̗ōn̗ta in elukkuun alikkar ilo M̗ajel̗. Kajojo aelōn̄ emaron̄ wōr aer makmake kōl̗ōn̗ta, el̗ap tata <a href="../images/RMI_30_yr_rain_avg.png" target="_blank">aelōn̄ ko tuiōn̄ bwe el̗apl̗o̗k aer kajoor m̗ōrā.</a></li>
 </ul>
 

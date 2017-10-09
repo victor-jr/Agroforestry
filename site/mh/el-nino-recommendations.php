@@ -23,7 +23,8 @@
         <td>
             <a href="../images/AtollWindbreakFromInside.jpg" data-lightbox="image-1" data-title="Atoll_Windbreak_From_Inside"><img src="../images/AtollWindbreakFromInside.jpg" alt="Atoll_Windbreak_From_Inside" style="width:  auto;
   height: 150px;"></a>
-        </td>  
+        </td> 
+        <td colspan="2"></td> 
         <td>
             <a href="../images/beachBermP.jpg" data-lightbox="image-2" data-title="beach_berm"><img src="../images/beachBermP.jpg" alt="beach_berm" style="width:  auto;
   height: 150px;"></a>
@@ -31,6 +32,7 @@
     </tr>
     <tr>
         <td>Kein ekkan ko einwōt an wal̗o̗k ijeko ewōr ni rej eddek ie </td>
+        <td colspan="2"></td> 
         <td>Kein ekkan ko einwōt an wal̗o̗k ijeko iparijet.</td>
     </tr>
 </table>
@@ -42,8 +44,8 @@
 <ul>
     <li>Prune ak Karreo wōjke ko ilo am̗ jol̗o̗k ra rej kōm̗m̗an pok ak rej jab kalle.  Karreoik wōjke ko emaron̄ jipan̄ kōm̗anm̗anl̗o̗k jekjek in wōjke ko bareinwōt jipan̄ kadikl̗o̗k an wōjke ko epidodo aer bo̗bo kōto im kōm̗m̗an ko̗uwōtata ilo iien l̗an̄ ko.</li>
     <li>Karreo wōjke ko ak em̗m̗anl̗o̗k jol̗o̗k wōjke ko epidodo aer naaj okjak ej wāween eo em̗m̗an tata n̄an bōbrae an naaj wōjke ko okjak im jiped juon em̗.</li>
-    <li>Ekkat m̗akm̗ōk , wot, im kein ekkan ko jet epen aer naaj jorrāān ilo iien ko ewōr kōto/n̗o ko rōl̗l̗ap.</li>
-    <li>Kōjparok im nikniki coastal vegetation ak kein ekkan ko iturin parijet n̄an kadikl̗o̗k/bōbrae coastal erosion ak an rōm̗ itōrerein parijet im jorrāān ko jet wal̗o̗k jān tab in n̗o ko ak jān lo̗jet eo.</li>
+    <li>Ekkat <a href="https://ethnobiology.org/sites/default/files/pdfs/JoE/14-2/Spennemann.pdf">m̗akm̗ōk</a> , <a href="http://www.hawaii.edu/cpis/MI/plants/wot.html">wot</a>, im kein ekkan ko jet epen aer naaj jorrāān ilo iien ko ewōr kōto/n̗o ko rōl̗l̗ap.</li>
+    <li>Kōjparok im nikniki <a href="coastal-forest.php">coastal vegetation</a> ak kein ekkan ko iturin parijet n̄an kadikl̗o̗k/bōbrae coastal erosion ak an rōm̗ itōrerein parijet im jorrāān ko jet wal̗o̗k jān tab in n̗o ko ak jān lo̗jet eo.</li>
     <li>Ron̄jake wōt “chatty beetle” ak retio ko.</li>
 </ul>
 
@@ -52,11 +54,11 @@
 <p>Ilo allōn̄ ko im̗aan tata ilo iiō in El Nin̄o ko (Jawōde – Juun), emaron̄ m̗okta l̗o̗k jān an wal̗o̗k naan in kean̄ ak kōkapilōklōk ko, enaaj l̗ap an wōt jān jon̄an ko ekkā an wōtlo̗k.  Emaron̄ wōnm̗aanl̗o̗k wōt an l̗ap an m̗ōl̗awi mejatoto jān jon̄an ilo iiō en̗, m̗aan l̗ok n̄an Nobōm̗ba ak Tijem̗ba.</p>
 <ul>
     <li>Ekkat leen wōjke ko ilo bwidej ko rōutiej, bwe en em̗m̗an an to̗o̗rl̗o̗k dān ko jāni.</li>
-    <li>Lale katu in wōt ko: ekkat kein ekkan ko em̗ōkaj aer eddek im maron̄ kalle m̗okta jān iien det ko.</li>
-    <li>Iaraj</li>
-    <li>Pele</li>
-    <li>Piteto (Sweet Potatoe)</li>
-    <li>Baan̄ke</li>
+    <li>Lale <a href="http://apdrc.soest.hawaii.edu/dashboard_RMI/">katu in wōt</a> ko: ekkat kein ekkan ko em̗ōkaj aer eddek im maron̄ kalle m̗okta jān iien det ko.</li>
+    <li><a href="http://guides.library.manoa.hawaii.edu/paccrops/cassava">Iaraj</a></li>
+    <li><a href="http://avrdc.org/benefits-bele">Pele</a></li>
+    <li><a href="http://guides.library.manoa.hawaii.edu/paccrops/sweetpotato">Piteto</a> (Sweet Potatoe)</li>
+    <li><a href="http://www.hawaii.edu/cpis/MI/plants/baanke.html">Baan̄ke</a></li>
     <li>Ekkat pele bwe rōūni im rōkabwebwe bwe epidodo aer eddek ijeko rōm̗ōrā.  Men kein kwōj aikuj bar katōki jān jul̗ier aolep kajjojo ruo l̗o̗k n̄an jilu allōn̄ ilo ijeko rōllor jidik im pel̗l̗o̗k.</li>
 </ul>
 
@@ -64,7 +66,7 @@
 
 <p>Ilo iiō eo ālikin iiō in El Nin̄o eo, enaaj dik an wōt jen jon̄an ko ekkā an wōtlo̗k.  Ewōr jet kein ekkan ko rōmaron̄ jab eddek.</p>
 <ul>
-    <li>Lale katu in wōt ko - kāālōt el̗an̄n̄e kwōj aikuj ko̗rum̗wij l̗o̗k am̗ ekkat kein ekkan ko eto kūtien aer eddek āinwōt ni ak wōjke ko m̗ae iien ejem̗l̗o̗k iien m̗ōrā.</li>
+    <li>Lale <a href="http://apdrc.soest.hawaii.edu/dashboard_RMI/">katu in wōt</a> ko - kāālōt el̗an̄n̄e kwōj aikuj ko̗rum̗wij l̗o̗k am̗ ekkat kein ekkan ko eto kūtien aer eddek āinwōt ni ak wōjke ko m̗ae iien ejem̗l̗o̗k iien m̗ōrā.</li>
     <li>Kōpooj jikin dān ko (n̄an iaraj) im kein idaak ko.</li>
     <li>Kōm̗m̗an kōn̗ jān kein ekkan ko jet im kōjerbali n̄an jipan̄ dāpij dān ak m̗ōl̗awi in bwidej ko.</li>
     <li>Kōpooj mā (n̄an bwiro) im bōb (n̄an mokwan̗) im kein ekkan ko jet.</li>

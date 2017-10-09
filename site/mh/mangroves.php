@@ -35,16 +35,16 @@
 <h3>Tu-ia n̄an ekkat: kajjojo kein ekkan rāinjuon jān doon rej eddek ilo kajjojo pel̗aak ko</h3>
 <ul>
 <li><a href="http://www.hawaii.edu/cpis/MI/plants/bulabol.html">Eoeak ak būl̗abōl</a> ko rej n̗a etaer fringe species kōnke rōmaron̄ in eddek metwan l̗o̗k ijeko <a href="http://www.hawaii.edu/cpis/MI/plants/jon.html" target="_blank">jon̄</a> ko rej eddek ie. Ekkat ‘propagule’ ak ine ko ineen jon̄ kein ijeko iol̗ap in kappe ikōtaan ibwij im pāāt, ijeko ekkā an naaj ibwiji aolep kajjojo raan.  El̗an̄n̄e enaaj iiō in El Nin̄o, utiej in lo̗jet enaaj kanooj ettā, kōn menin ekkat ijeko rōpijpij, kōnke el̗an̄n̄e enaaj bar jem̗l̗o̗k El Nin̄o, utiej in lo̗jet n̄an jon̄an eo ekkā an wal̗o̗k, enaaj m̗wilal̗ l̗ok.</li>
-<li><a href="http://www.hawaii.edu/cpis/MI/plants/bulabol_(konpat).html">Kōnpat ak būl̗abōl</a> im jon̄ ekkā aer eddek ilo pat ko ilo M̗ajel̗.  Kwōmaron̄ kajjion̄ ekkat elōn̄ ine in jon̄ ijeko repaake parijet jān eoeak ko, ijeko rōban l̗ap aer ibwij ak pāāt.</li>
+<li><a href="http://www.hawaii.edu/cpis/MI/plants/bulabol_(konpat).html">Kōnpat ak būl̗abōl</a> im <a href="http://www.hawaii.edu/cpis/MI/plants/jon.html">jon̄</a> ekkā aer eddek ilo pat ko ilo M̗ajel̗.  Kwōmaron̄ kajjion̄ ekkat elōn̄ ine in jon̄ ijeko repaake parijet jān eoeak ko, ijeko rōban l̗ap aer ibwij ak pāāt.</li>
 <li><a href="http://www.hawaii.edu/cpis/MI/plants/kimeme.html">Kimeme</a> ko rej n̗a etaer interior species.  Ekkā aer eddek ilo pat ko.  Kwomaron̄ ekkat ine in kimeme ko ijeko repaake parijet, ijeko wōt emaron̄ naaj ibwiji ilo iien iōl̗ap-lep.</li>
 <li><a href="http://www.hawaii.edu/cpis/MI/plants/kone.html">Kōn̄e</a> ej bar m̗ōttan jon̄ eo emaron̄ bar eddek ijeko repaake parijet ak rōmaron̄ eddek ijeko el̗ap aer ibwij.</li>
 </ul>
 
 <h3>N̄āāt kwōj ekkat</h3>
 <ul>
-    <li>L̗ōmn̗ake m̗okta l̗o̗k jān am̗ kōm̗m̗ane. Ejjab etto ālikin an kar iōl̗ap-lep me kwōj lo ke em̗m̗an, n̄an am̗ kōtl̗o̗k bwe ine ko ren eddek ilowaan jejjo allōn̄ bwe ren eo̗n̄ im kwal̗o̗k okar m̗okta jān iōl̗ap-lep eo tok ālik. Lale <a href="https://tidesandcurrents.noaa.gov/tide_predictions.html?gid=1544" target="_blank">tide</a> chart eo me ej kwal̗o̗k kōn bōkā ko.</li>
-    <li>Waate wōt bōkā ko em jon̄an an wanlōn̄ l̗o̗k dān in lo̗jet ilo tōre ko kwōnaaj ekkat. An okkōtaktak an wanlōn̄ tak dān in lo̗jet eo ilowaan allōn̄ ko tok im̗aan, pedped wōt ioon an okkōtaktak ae ko, rej wal̗o̗k ilo <a href="index">website in</a>. (Men in ej jab kwal̗o̗k okkōtaktak in an wanlōn̄tak dān in lo̗jet eo jān bōkā ko, l̗an̄ ko, ak n̗o ko rōutiej jān ioon āne).</li>
-    <li>Jab l̗ōmn̗ak in kōm̗m̗an jerbal in ekkat ilo iien eo ejejjet <a href="enso">“El Niño Year 0”</a> kōnke l̗an̄ ko rōnaaj wal̗o̗k em maron̄ kōmaajaje ijo kwaar katōki ine ko ie.</li>
+    <li>L̗ōmn̗ake m̗okta l̗o̗k jān am̗ kōm̗m̗ane. Ejjab etto ālikin an kar iōl̗ap-lep me kwōj lo ke em̗m̗an, n̄an am̗ kōtl̗o̗k bwe ine ko ren eddek ilowaan jejjo allōn̄ bwe ren eo̗n̄ im kwal̗o̗k okar m̗okta jān iōl̗ap-lep eo tok ālik. Lale <a href="https://tidesandcurrents.noaa.gov/tide_predictions.html?gid=1544" target="_blank">tide chart</a> eo me ej kwal̗o̗k kōn bōkā ko.</li>
+    <li>Waate wōt bōkā ko em jon̄an an wanlōn̄ l̗o̗k dān in lo̗jet ilo tōre ko kwōnaaj ekkat. An okkōtaktak an wanlōn̄ tak dān in lo̗jet eo ilowaan allōn̄ ko tok im̗aan, pedped wōt ioon an okkōtaktak ae ko, rej wal̗o̗k ilo <a href="index.php">website in</a>. (Men in ej jab kwal̗o̗k okkōtaktak in an wanlōn̄tak dān in lo̗jet eo jān bōkā ko, l̗an̄ ko, ak n̗o ko rōutiej jān ioon āne).</li>
+    <li>Jab l̗ōmn̗ak in kōm̗m̗an jerbal in ekkat ilo iien eo ejejjet <a href="enso.php">“El Niño Year 0”</a> kōnke l̗an̄ ko rōnaaj wal̗o̗k em maron̄ kōmaajaje ijo kwaar katōki ine ko ie.</li>
     <li>Ko̗rum̗wij l̗o̗k raan eo kwaar peeke bwe kwōn ilen ekkat n̄e kwaar ron̄ ilo mejatoto emaron̄ in ibwij em dān in lo̗jet enaaj to̗re ioon āne.</li>
     <li>Katu ko rōkadu kūtier (me rej wal̗o̗k aolep wiik) kōn an naaj lukkuun in wanlōn̄tak dān in lo̗jet eo pedped wōt ioon bōkā em n̗o ko rej jarjar tok wōt jān l̗an̄ ko rōttol̗o̗k jān āne rej wal̗o̗k im alikkar n̄an <a href="http://www.pacioos.hawaii.edu/shoreline/runup-majuro/" target="_blank">Majuro</a> em <a href="http://www.pacioos.hawaii.edu/shoreline/runup-kwajalein/" target="_blank">Kwajelein</a>.</li>
 </ul>
@@ -58,8 +58,6 @@
 <p><a href="https://www.conservationgateway.org/ConservationPractices/Marine/crr/library/Documents/MangrovesforCoastalDefence_Decision_makers_Guide_WebVersion.pdf">“Decision Makers’ Guide”</a> in ej kwal̗o̗k elōn̄l̗o̗k wāween n̄an am̗ l̗ōmn̗ak kōn jon̄ n̄an bōbrae parijet ko lal̗ in.</p>
 
 <h2>Ekkatak Ko</h2>
-
-<h4>Kōm̗m̗akūt jon̄ n̄an pel̗aak ko ilo aelōn̄ ko ilo Ruk</h4>
 
 <figure class="right third" >
     <img class="whole" src="../images/mangroves-ramsay.jpg" />
