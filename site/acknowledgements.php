@@ -132,7 +132,7 @@
 </div>
 <div id="footer" role="contentinfo">
     <div id="innerfooter">
-            <img src="images/logos.png" style="max-height:100px;display: block;margin-left: auto;margin-right: auto"/>
+            <img src="images/_logos.png" style="max-height:100px;display: block;margin-left: auto;margin-right: auto"/>
     </div>
 </div>
 <script type="text/javascript" src="js/translate_to_marshallese.js"></script>

@@ -109,7 +109,7 @@
 <ul>
     <li><a href="https://www.youtube.com/watch?v=AunhShf0E5o" target="_blank">Ekkat Ine ko Ioon Causeway eo</a> ilo Wōja, Ailinglaplap Atoll ilo 2015 eo - ekkat menin eddek ko ioon ial̗ eo ekāāl me ej kobaiki ruo aeto̗.</li>
     <li><a href="https://www.youtube.com/watch?v=rmFJ3fHVbZ0">Strengthening Coastal Resilience in the outlying atolls of the Marshall Islands</a> by SPC.</li>
-    <li>Jan̄n̄ōr em marilik ko rej eddek ilo tōrerein parijet in <a href="http://www.hilt.org/protected-lands/maui/waihee-refuge/" target="_blank">Waihe’e</a> ilo Maui kar katōki em bar kōmouri ālikin kar julo̗ki em kōm̗akūti menin eddek ko rōpinej ial̗ in an eddek menin eddek ko rōkkar dede in ke el̗ap kar ekkat kiden, kōn̗n̗at em juon kōn̗n̗at in Hawaii kan̗. Ālikin</li>
+    <li>Jan̄n̄ōr em marilik ko rej eddek ilo tōrerein parijet in <a href="http://www.hilt.org/protected-lands/maui/waihee-refuge/" target="_blank">Waihe’e</a> ilo Maui kar katōki em bar kōmouri ālikin kar julo̗ki em kōm̗akūti menin eddek ko rōpinej ial̗ in an eddek menin eddek ko rōkkar dede in ke el̗ap kar ekkat kiden, kōn̗n̗at em juon kōn̗n̗at in Hawaii kan̗. Ālikin juon tōre eo ekar wal̗o̗k juon n̗o ko me rōtuiej jān ioon āne, menin eddek kein rōkar mour wōt em maron̄ bar make eddek jān menin eddek ko rōnana me rōpinej ial̗ in an menin eddek ko rōkkar eddek</li>
 </ul>
 </div>
 <?php include '_footer.php'; ?>
