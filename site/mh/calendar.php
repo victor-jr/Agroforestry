@@ -35,7 +35,10 @@
 </ul>
 
 
+<a style="float:right" href="../docs/Normal calendar_recs_avail.pdf">Print Page</a>
 </div>
+
+
 <?php include '_footer.php'; ?>
 
 <script type="text/javascript" src="../js/highcharts.js"></script>

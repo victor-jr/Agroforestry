@@ -91,6 +91,8 @@
     <li><a href="../docs/ENSO_Rainfall_Atlas_strong_la_nina.pdf">La Niña eo an Em̗m̗an Jon̄an - Lukkuun In Kajoor</a></li>
 </ul>
 
+<a style="float:right" href="../docs/ElNinoPoster.pdf">Print Page</a>
+
 </div>
 <?php include '_footer.php'; ?>
 <script>

@@ -836,6 +836,10 @@
 
 </table>
 
+<a style="float:right" href="../docs/TolerantSpeciesTable.pdf">Print Page</a>
+</br>
+
+
 <?php include '_footer.php'; ?>
 <script>
 (function() {

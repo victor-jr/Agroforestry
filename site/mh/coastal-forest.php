@@ -61,6 +61,6 @@
 <li><a href="https://www.youtube.com/watch?v=rmFJ3fHVbZ0">Strengthening Coastal Resilience in the outlying atolls of the Marshall Islands</a> by SPC.</li>
 </ul>
 -->
-
+<a style="float:right" href="../docs/Coastal Forests_plus_mh.pdf">Print Page</a>
 </div>
 <?php include '_footer.php'; ?>

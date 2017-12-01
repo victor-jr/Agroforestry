@@ -30,6 +30,8 @@
 <calendar-table id="table" params="chartOptions: chartOptions"></calendar-table>
 
 <p style="font-size: .8em;"><em>Kein kakememej:</em> Wōt (Giant taro) im bar jet kain kein ekkan rōmaron̄ kalle aolep iien. kōl̗ōn̗ta in ej kwal̗ok iien m̗adm̗ōd ko ilo tōreen An̄ōnean̄ kōnke ilo tōreen Rak, armej rōkōnaan ekkat mā im iaraj</p>
+
+<a style="float:right" href="../docs/ElNiño calendar_recs.pdf">Print Page</a>
 </div>
 <?php include '_footer.php'; ?>
 

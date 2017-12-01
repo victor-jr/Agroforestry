@@ -72,6 +72,7 @@
     <li>Kōpooj mā (n̄an bwiro) im bōb (n̄an mokwan̗) im kein ekkan ko jet.</li>
 </ul>
 
+
 </div>
 <?php include '_footer.php'; ?>
 </body>
