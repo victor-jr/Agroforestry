@@ -4,7 +4,7 @@
         </ul>
         <a href="acknowledgements.php#about_this_project">About this project</a>
         <br/>
-        <a href="acknowledgements.php#acknowledgements">Website developed by the University of Hawaiʻi with funding from the DOI USGS Pacific Islands Climate Science Center.</a>
+        <a href="acknowledgements.php#acknowledgements">Website developed by the University of Hawaiʻi with funding from the DOI USGS <b>Pacific Islands Climate Science Center</b>.</a>
     </div>
 </div>
 

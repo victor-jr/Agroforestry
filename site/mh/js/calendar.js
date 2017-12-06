@@ -23,7 +23,7 @@ var monthsColor =  "#434348",
         { name: 'Nobōm̗ba', y: 30 },
         { name: 'Tijem̗ba', y: 31 },
         { name: 'Jānwōde', y: 31 },
-        { name: 'Pāpode', y: 28 },
+        { name: 'Pāpode', y: 28 },
         { name: 'M̗aaj', y: 31 },
         { name: 'Eprōl̗', y: 30 },
         { name: 'Māe', y: 31 }

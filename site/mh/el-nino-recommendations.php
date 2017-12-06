@@ -72,7 +72,7 @@
     <li>Kōpooj mā (n̄an bwiro) im bōb (n̄an mokwan̗) im kein ekkan ko jet.</li>
 </ul>
 
-
+<a style="float:right" href="../docs/ElNiño calendar_recs.pdf">Print Page</a>
 </div>
 <?php include '_footer.php'; ?>
 </body>
