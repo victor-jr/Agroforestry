@@ -154,7 +154,7 @@ var production_Legend = {
 //Colors: make breadfruit green-to-white (like rak). Make pandanus yellow-to-white (like annonean). For the other crops, use unique colors, like red, purple.
 
 var breadfruit_Season = [ 1, 1, 1, 0.6, 0.2, 0.2, 0.2, 0, 0.4, 0.4, 0.4, 0.7 ],
-    breadfruit_Color = "#48AD20",
+    breadfruit_Color = "#40E0D0",
     breadfruit_LegendColor = legendGradient(breadfruit_Color, nonProductionColor),
     breadfruit_Data = productionSeries(1, breadfruit_Season, breadfruit_Color, production_Legend);
 
@@ -190,14 +190,21 @@ window.calendar = function(element, bare) {
             enabled: false
         },
         exporting: {
+            sourceWidth: 750,
             filename: 'calendar_normal',
-            enabled: !bare
+            enabled: !bare,
         },
         legend: {
-            enabled: !bare
+            enabled: !bare,
+            itemStyle: {
+                fontSize: "16px"
+            }
         },
         chart: {
-            type: 'pie'
+            type: 'pie',
+            style: {
+                fontFamily: 'arial'
+            }
         },
         title: {
             text: bare ? null : 'Marshallese Traditional Agroforestry Calendar'
