@@ -57,7 +57,7 @@ window.levelGauge = function(element, value, chartLabel, colors, dialColor, band
                     format: chartLabel,
                     borderRadius: 0,
                     borderWidth: 0,
-                    y: 9,
+                    y: 5,
                     style: {color: "black", fontSize: "12pt", fontWeight: "normal", textShadow: "0", fontFamily: "Open Sans Hawaii" }
                 },
                 dial: {
