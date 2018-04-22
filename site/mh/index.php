@@ -9,6 +9,12 @@
     <link href="http://fonts.googleapis.com/css?family=Alegreya:400italic,400,700italic,700" rel="stylesheet" type="text/css">
     <link href="../css/lightbox.css" rel="stylesheet">
     <link href="../css/home.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" type="text/css" href="semantic/dist/semantic.min.css">
+    <script
+    src="https://code.jquery.com/jquery-3.1.1.min.js"
+    integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+    crossorigin="anonymous"></script>
+    <script src="semantic/dist/semantic.min.js"></script>
 </head>
 <body>
 <?php 
