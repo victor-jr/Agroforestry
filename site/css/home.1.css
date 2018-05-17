@@ -1,0 +1,254 @@
+.ui.attached.banner {
+	height: 10rem;
+}
+
+#header {
+	background-color: ghostwhite;
+}
+
+#header .ui.bottom.attached.menu {
+	background-color: ghostwhite;
+}
+
+#footer {
+	clear: both;
+	background-color: #ACBEDA;
+	padding: 5px;
+	margin-top: 20px;
+}
+
+#innerfooter a {
+	color: blue;
+	font-size: 1.2rem;
+	text-decoration-line: underline;
+} 
+
+.left {
+	margin: 5px 20px 5px 0;
+	float: left;
+}
+.right {
+	margin: 5px 5px 5px 20px;
+	float: right;
+}
+.half {
+	max-width: 50%;
+	min-width: 220px;
+}
+.third {
+	max-width: 33%;
+	min-width: 180px;
+}
+.fourth {
+	max-width: 25%;
+	min-width: 120px;
+}
+.whole {
+	width: 100%;
+}
+
+img.arrow {
+	display: block;
+}
+
+figure {
+	margin: 0;
+}
+figcaption.ack {
+	text-align: right;
+	font-size: .6em;
+}
+figcaption.ack a {
+	text-decoration: none;
+}
+
+div.news h2 {
+	margin-top: 1.5em;
+	margin-bottom: .4em;
+	color: #1F581E;
+}
+div.news h3 {
+	font-size: 1.11em;
+	margin-top: .5em;
+	font-weight: normal;
+	font-style: italic;
+}
+
+table.columns {
+	border-collapse: collapse;
+}
+td.column {
+	vertical-align: top;
+	width: 50%;
+	padding-left: 1em;
+	padding-right: 1em;
+	border-right: 1px gray dotted;
+}
+td.column:first-child {
+	padding-left: 0;
+}
+td.column:last-child {
+	padding-right: 0;
+	border-right: 0;
+}
+@media screen and (min-width: 922px) {
+	td.column > *:first-child {
+			margin-top: 0;
+	}
+}
+@media screen and (max-width: 921px) {
+	table.columns, table.columns > tbody, table.columns > tbody > tr {
+			display: inline;
+	}
+	td.column {
+			display: inline;
+			width: auto;
+			border: 0;
+			padding: 0;
+	}
+}
+
+table.salt {
+
+}
+table.salt h2 {
+	padding: 0;
+	margin: 0;
+}
+table.salt td {
+	border-right: 1px gray dotted;
+	border-top: 1px gray dotted;
+	vertical-align: top;
+	padding: .5em;
+}
+table.salt td:last-child {
+	border-right: none;
+}
+
+table.enso {
+
+}
+table.enso h2 {
+	padding: 0;
+	margin: 0;
+}
+table.enso td {
+	border-right: 1px gray dotted;
+	vertical-align: top;
+	padding: .5em;
+}
+table.enso td:last-child {
+	border-right: none;
+}
+
+calendar-table {
+	display: block;
+	font-size: .8em;
+	margin-top: 1em;
+}
+
+table.calendartable {
+	/*width: 100%;*/
+	border-spacing: 0 4px;
+}
+table.calendartable td {
+	text-align: center;
+}
+table.calendartable td.label {
+	text-align: left;
+	padding-right: .5em;
+	padding-left: .5em;
+	text-indent: -.5em;
+}
+table.calendartable td.label small {
+	display: inline-block;
+	text-indent: 0;
+}
+
+th.rotate {
+	/* Something you can count on */
+	height: 80px;
+	white-space: nowrap;
+}
+
+th.rotate > div {
+	transform:
+			/* Magic Numbers */
+			translate(15px, 21px)
+			/* 45 is really 360 - 45 */
+			rotate(315deg);
+	width: 30px;
+}
+
+.gauges {
+	text-align: center;
+}
+.gauges .variable {
+	font-weight: bold;
+	color: #592A1E;
+}
+.gauges .when-updated {
+	font-size: smaller;
+}
+.gauges .gauge {
+	display: inline-block;
+	width: 11em;
+	height: 7.5em;
+}
+.optiongroup {
+	margin: 1px;
+	border: 1px solid #A1A1A1;
+	background: white;
+}
+.optiongroup button {
+	font-size: 1.125em;
+	border: 1px solid white;
+	padding: 0px 3px;
+	margin: 1px;
+}
+.optiongroup button.selected {
+	border: 1px solid #0060A6;
+	cursor: auto;
+	color: black !important;
+	background: #A1C2EF !important;
+}
+
+img.loading {
+	display: block;
+	margin: auto;
+	z-index: 100;
+}
+
+.img-with-text {
+	text-align: center;
+	width: 60;
+}
+
+.img-with-text img {
+	display: block;
+	margin: 0 auto;
+}
+
+.recommendationImg {
+	max-height: 300px;
+}
+
+.recommendationImgTable td {
+	width: 250px;
+}
+
+.right.menu .vertical.item {
+	display: none;
+}
+
+@media (max-width: 1128px) {
+    .ui.bottom.attached.menu a.horizontal.item {
+			display: none;
+		}
+		.ui.simple.dropdown.horizontal.item {
+			display: none;
+		}
+		.right.menu .vertical.item {
+			display: inherit;
+		}
+}
