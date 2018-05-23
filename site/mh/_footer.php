@@ -8,12 +8,12 @@
     </div>
 </div>
 
-<script type="text/javascript" src="js/jquery-3.0.0.min.js"></script>
-<script type="text/javascript" src="js/knockout-3.4.0.js"></script>
-<script type="text/javascript" src="js/knockout.punches.min.js"></script>
-<script type="text/javascript" src="js/home.js"></script>
-<script type="text/javascript" src="js/translate_to_english.js"></script>
-<script src="js/lightbox.js"></script>
+<script type="text/javascript" src="../js/jquery-3.0.0.min.js"></script>
+<script type="text/javascript" src="../js/knockout-3.4.0.js"></script>
+<script type="text/javascript" src="../js/knockout.punches.min.js"></script>
+<script type="text/javascript" src="../js/home.js"></script>
+<script type="text/javascript" src="../js/translate_to_english.js"></script>
+<script src="../js/lightbox.js"></script>
 <script type="text/javascript">
 (function() {
     ko.punches.enableAll();
