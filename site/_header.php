@@ -2,6 +2,7 @@
     $fileInfo = pathinfo($_SERVER['SCRIPT_FILENAME']);
 		$this_page = @$fileInfo['filename'];
 		$host = $_SERVER['REQUEST_URI'];
+		$mhUrl = '';
 		if (strpos($host, 'mh') !== false) {
 			$mhUrl = '../';
 		}
