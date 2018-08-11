@@ -92,11 +92,11 @@ header("Pragma: no-cache");
                         <!-- /ko -->
 
                         <ul>
-                            <li>What is the <a href="enso.php">El Niño/La Niña pattern</a>?</li>
+                            <li>Ta in <a href="enso.php">El Niño/La Niña pattern</a>?</li>
                             <li>Ewi wāween an <a href="elnino-calendar.php">El Niño eo jelōt iien (raan, allōn̄, em ko jet) ekkat wōjke?</a></li>
                             <!-- ko ifnot: recentGaugeValue() == 1 && outlookGaugeValue() == 5 -->
                             <li><a href="el-nino-recommendations.php#storms">M̗aanjab-popo n̄an an maron̄ jetak l̗an̄ em kōto ko.</a></li>
-                            <li>Wet weather will affect your crops during the El Niño year—<a href="el-nino-recommendations.php#wet">care for them</a>.</li>
+                            <li>M̗ōl̗awi in mejatoto ko rōmaron̄ bar jelōt kein ekkan ko ilo iiōōn El Nin̄o ko - <a href="el-nino-recommendations.php#wet">kōjparoki</a>.</li>
                             <!-- /ko -->
                             <li><a href="el-nino-recommendations.php#drought">M̗aanjab-popo n̄an juon iien emaron̄ m̗ōrā  (ak den̄den̄-in-mājlep) ālikin El Niño eo ilo iiō eo ej jem̗l̗o̗k l̗o̗k.</a></li>
                         </ul>
