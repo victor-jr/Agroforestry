@@ -1,3 +1,4 @@
+</div>0
 <div class="ui container">
 	<div id="disqus_thread"></div>
 </div>

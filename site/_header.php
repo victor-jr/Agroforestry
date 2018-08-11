@@ -7,6 +7,9 @@
 			$mhUrl = '../';
 		}
 ?>
+<link rel="stylesheet" type="text/css" href="semantic/dist/semantic.min.css">
+<script type="text/javascript" src="js/jquery-3.0.0.min.js"></script>
+<script src="semantic/dist/semantic.min.js"></script>
 <div id="header">
 	<img class="ui attached image" width="100%" src="<?php echo $mhUrl; ?>images/Agroforestry_banner_1300px.jpg" alt="Agroforestry in the Climate of the Marshall Islands" />
 		<div class="ui bottom attached menu">
@@ -67,6 +70,7 @@
 			</div>
 		</div>
 </div>
+<div class="ui container">
 <script>
 	$('.ui.dropdown')
 		.dropdown()
