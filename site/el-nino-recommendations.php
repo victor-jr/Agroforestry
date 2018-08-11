@@ -77,6 +77,8 @@
 <!--    <li>Learn about emergency/starvation foods (for example, <em>Crinumand ixora</em>).</li> -->
 </ul>
 
+<a href="http://www.spc.int/blog/republic-of-marshall-islands-strengthens-food-security-measures-ahead-of-future-droughts/">Readiness for El Nino Project</a>
+
 </div>
 <?php include '_footer.php'; ?>
 </body>
