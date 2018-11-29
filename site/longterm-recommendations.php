@@ -38,7 +38,12 @@ Ask extension agents and experienced farmers about traditional and modern ways o
    <li>Raised beds can tolerate wet conditions and also avoid problems with salinized groundwater</li>
    <li>Improve catchment systems and use irrigation systems.</li>
    <li>Find the best possible location. Planting sites on larger islets generally have more groundwater resources. Planting sites that are inland yet at a higher elevation are further from inundations that may occur. Planting sites on the leeward side or where the reef crest is far from the shore are less likely to be inundated by large waves. These locations are better protected from high sea levels under La Niña conditions, and storms during El Niño conditions.</li>
+   <li>For example, <a target="_blank" href="https://vimeo.com/301729689/ebac78b829">Mejit</a> looked carefully at which areas were not suitable for breadfruit and which areas were safe</li>
+   <ul>
+      <li>Go to <a href="http://www.atollconservation.org/" target="_blank">MICS</a> website for more information</li> 
+   </ul>
 </ul>
+
 
 <a id="tradition_food"></a><h2>Enjoy TRADITIONAL FOODS that keep you healthy with vitamins and fiber</h2>
 
