@@ -1,8 +1,0 @@
-Region,Now,Outlook
-Majuro,,
-,,
-,,
-Notes,Above (>2 m/s) = 1, Normal (-2 to 2 m/s) = 0, Below (<-2 m/s) =-1),
-****Bad SD file from NCEP****,,
-http://cfs.ncep.noaa.gov/pub/raid0/cfsv2/climo_cfsr_time/sd/,,
-Use difference between Forecast and Seasonal Cycle (+-2 m/s) instead of sigma,,

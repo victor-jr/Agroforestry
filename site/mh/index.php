@@ -19,9 +19,9 @@
 <body>
 <?php 
 include '../_header.php';
-header("Cache-Control: no-store, no-cache, must-revalidate, max-age=0");
-header("Cache-Control: post-check=0, pre-check=0", false);
-header("Pragma: no-cache");
+// header("Cache-Control: no-store, no-cache, must-revalidate, max-age=0");
+// header("Cache-Control: post-check=0, pre-check=0", false);
+// header("Pragma: no-cache");
 ?>
 
 <div class="ui container">
@@ -145,17 +145,17 @@ header("Pragma: no-cache");
 </div>
 <?php include '../_footer.php'; ?>
 
-<script type="text/javascript" src="../js/jquery.query-object.js"></script>
-<script type="text/javascript" src="../js/knockout-switch-case.min.js"></script>
-<script type="text/javascript" src="../js/highcharts.js"></script>
-<script type="text/javascript" src="../js/highcharts-more.js"></script>
-<script type="text/javascript" src="../js/exporting.js"></script>
-<script type="text/javascript" src="../js/gauge.js"></script>
-<script type="text/javascript" src="../js/gradstop.js"></script>
-<script type="text/javascript" src="../js/calendar.js"></script>
-<script type='text/javascript' src='../js/csv.js'></script>
-<script type='text/javascript' src='../js/condition-gauges.js'></script>
-<script type='text/javascript' src='../js/index.js'></script>
+<script type="text/javascript" src="./js/jquery.query-object.js"></script>
+<script type="text/javascript" src="./js/knockout-switch-case.min.js"></script>
+<script type="text/javascript" src="./js/highcharts.js"></script>
+<script type="text/javascript" src="./js/highcharts-more.js"></script>
+<script type="text/javascript" src="./js/exporting.js"></script>
+<script type="text/javascript" src="./js/gauge.js"></script>
+<script type="text/javascript" src="./js/gradstop.js"></script>
+<script type="text/javascript" src="./js/calendar.js"></script>
+<script type='text/javascript' src='./js/csv.js'></script>
+<script type='text/javascript' src='./js/condition-gauges.js'></script>
+<script type='text/javascript' src='./js/index.js'></script>
 <!-- Start of StatCounter Code for Default Guide -->
 <script type="text/javascript">
 var sc_project=11330033;

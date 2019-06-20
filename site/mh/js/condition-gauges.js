@@ -37,7 +37,7 @@ function gauge(variable, when, value, date) {
     levelGauge('#' + variable + '_' + when, value, label, gaugeColors[variable], dialColors[when]);
 }
 
-var baseUrl = 'data/'; // 'http://iprc.soest.hawaii.edu/users/mwidlans/Marshall_Islands/';
+var baseUrl = '../data/'; // 'http://iprc.soest.hawaii.edu/users/mwidlans/Marshall_Islands/';
 var urls = {
     rain: 'prec_gauge.csv',
     wind: 'wspd_gauge.csv',
