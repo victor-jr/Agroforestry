@@ -61,10 +61,10 @@
 						</div>
 					</div>
 				</div>
-				<a id="rmi_translate_img" href="javascript:translate_to_english()" class="item">
+				<a id="rmi_translate_img" href="javascript:translate_to_english(); void 0" class="item">
 					<img width="25px" class="ui image" src="<?php echo $mhUrl; ?>images/usa-flag.svg" />
 				</a>
-				<a id="rmi_translate" href="javascript:translate_to_marshallese()" class="item">
+				<a id="rmi_translate" href="javascript:translate_to_marshallese(); void 0" class="item">
 					<img width="25px" class="ui image" src="<?php echo $mhUrl; ?>images/rmi-flag.svg" />
 				</a> 
 			</div>
