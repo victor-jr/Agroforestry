@@ -3,7 +3,7 @@ function translate_to_english() {
 	var url_parts = window.location.href.split('/');
 	var newUrl = '';
 	
-	if (url_parts.indexOf('mh') == 1) {
+	if (url_parts.indexOf('mh') != -1) {
 		url_parts.splice(url_parts.length - 2, 1);		
 	};
 	

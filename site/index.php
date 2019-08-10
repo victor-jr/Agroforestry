@@ -18,6 +18,17 @@
 		<script src="semantic/dist/semantic.min.js"></script>
 </head>
 <body>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId            : '824698961026499&autoLogAppEvents=1',
+      autoLogAppEvents : true,
+      xfbml            : true,
+      version          : 'v4.0'
+    });
+  };
+</script>
+<script async defer src="https://connect.facebook.net/en_US/sdk.js"></script>
 <?php 
 include '_header.php';
 // header("Cache-Control: no-store, no-cache, must-revalidate, max-age=0");
@@ -147,7 +158,9 @@ include '_header.php';
 	</div>
 
 	</div>
+<div class="fb-page" data-href="https://www.facebook.com/lvinternationalmarket/" data-tabs="timeline" data-width="" data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/lvinternationalmarket/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/lvinternationalmarket/">LV International Market</a></blockquote></div>
 </div>
+
 
 <?php include '_footer.php'; ?>
 
@@ -171,10 +184,10 @@ var scJsHost = (("https:" == document.location.protocol) ?
 document.write("<sc"+"ript type='text/javascript' src='" + scJsHost+
 "statcounter.com/counter/counter.js'></"+"script>");
 </script>
-<noscript><div class="statcounter"<a title="web stats"
+<!-- <noscript><div class="statcounter"<a title="web stats"
 href="http://statcounter.com/" target="_blank"><img class="statcounter"
 src="//c.statcounter.com/11330033/0/ce881b73/1/" alt="web
-stats"></a></div></noscript>
+stats"></a></div></noscript> -->
 <!-- End of StatCounter Code for Default Guide -->
 </body>
 </html>
