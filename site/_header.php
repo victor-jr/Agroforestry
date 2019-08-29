@@ -70,7 +70,7 @@
 			</div>
 		</div>
 </div>
-<div class="ui container">
+<div>
 <script>
 	$('.ui.dropdown')
 		.dropdown()
